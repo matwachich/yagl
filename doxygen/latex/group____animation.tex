@@ -1,0 +1,512 @@
+\hypertarget{group____animation}{\section{Animations}
+\label{group____animation}\index{Animations@{Animations}}
+}
+
+
+Animations handling.  
+
+
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+Animation $\ast$Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_gaa6b1dc5a5f5806f988da1bae9f8681f0}{Animation\-\_\-\-Create} (unsigned int frames\-\_\-count)
+\begin{DoxyCompactList}\small\item\em Create an Animation object. \end{DoxyCompactList}\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_ga50bcd7d47652ff0427217fdcbb9eb938}{Animation\-\_\-\-Is\-Animation} (Animation $\ast$anim)
+\begin{DoxyCompactList}\small\item\em Check if the pointer is an Animation object. \end{DoxyCompactList}\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_gaa83f6f2b311c45480007ef18011e37d2}{Animation\-\_\-\-Add\-Frame\-Ex} (Animation $\ast$anim, float duration, Texture $\ast$tex, int rect\-\_\-x, int rect\-\_\-y, int rect\-\_\-w, int rect\-\_\-h, \hyperlink{group____consts__color_gafe1825ea3ea95c415448a35dc1f1418d}{Y\-A\-G\-L\-\_\-\-Color} color, \hyperlink{group____enums_ga332b9dbc3141f0555a6deea6cffed74a}{e\-B\-L\-E\-N\-D\-\_\-\-M\-O\-D\-E} blend\-\_\-mode, int change\-\_\-size, float size\-\_\-x, float size\-\_\-y)
+\begin{DoxyCompactList}\small\item\em Add a frame to an Animation object. \end{DoxyCompactList}\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_ga7fef87c3fb18ab1f98e86514dbb24c73}{Animation\-\_\-\-Add\-Frame} (Animation $\ast$anim, float duration)
+\begin{DoxyCompactList}\small\item\em Add an empty frame. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_gaa6f90cece7b33a347a37f4adff53854e}{Animation\-\_\-\-Frame\-Set\-Blank} (Animation $\ast$anim, unsigned int frame\-\_\-id)
+\begin{DoxyCompactList}\small\item\em Set a Frame as blank. \end{DoxyCompactList}\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_ga0431867830d8acab6ee19c231548fceb}{Animation\-\_\-\-Frame\-Count} (Animation $\ast$anim)
+\begin{DoxyCompactList}\small\item\em Get frames count. \end{DoxyCompactList}\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_gae4d00ed7c1b1075558d203a4b6ad3c34}{Animation\-\_\-\-Frame\-Max} (Animation $\ast$anim)
+\begin{DoxyCompactList}\small\item\em Get max frames. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_ga7274d099081070aefcc61478547506df}{Animation\-\_\-\-Empty} (Animation $\ast$anim)
+\begin{DoxyCompactList}\small\item\em Delete all animation's frames. \end{DoxyCompactList}\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_gae123b5273567bfb847657ff0f500c739}{Animation\-\_\-\-Destroy} (Animation $\ast$anim)
+\begin{DoxyCompactList}\small\item\em Destroy animation. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_gab60d6ad9637fd8168ebd42c4ea7c9488}{Animation\-\_\-\-Frame\-Set\-Duration} (Animation $\ast$anim, unsigned int frame\-\_\-id, float duration)
+\begin{DoxyCompactList}\small\item\em Set the duration of a frame. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_gaea854810015381a73bbcdc9f2a710e33}{Animation\-\_\-\-Frame\-Set\-Texture} (Animation $\ast$anim, unsigned int frame\-\_\-id, Texture $\ast$tex, int rect\-\_\-x, int rect\-\_\-y, int rect\-\_\-w, int rect\-\_\-h)
+\begin{DoxyCompactList}\small\item\em Set the texture and texture rectangle of a frame. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_gac48bc01b23ae5213b74b4fad44988eb0}{Animation\-\_\-\-Frame\-Set\-Color} (Animation $\ast$anim, unsigned int frame\-\_\-id, unsigned char red, unsigned char green, unsigned char blue, unsigned char alpha)
+\begin{DoxyCompactList}\small\item\em Set frame color. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_gabb9fe48f2634ef1660d98c76afb907d1}{Animation\-\_\-\-Frame\-Set\-Color\-Ex} (Animation $\ast$anim, unsigned int frame\-\_\-id, \hyperlink{group____consts__color_gafe1825ea3ea95c415448a35dc1f1418d}{Y\-A\-G\-L\-\_\-\-Color} color)
+\begin{DoxyCompactList}\small\item\em Set frame color. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_ga85aefd29fbf1fa92f202a43795d1bf0d}{Animation\-\_\-\-Frame\-Set\-Blend\-Mode} (Animation $\ast$anim, unsigned int frame\-\_\-id, \hyperlink{group____enums_ga332b9dbc3141f0555a6deea6cffed74a}{e\-B\-L\-E\-N\-D\-\_\-\-M\-O\-D\-E} blend\-\_\-mode)
+\begin{DoxyCompactList}\small\item\em Set frame blend mode. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_gabe6718dd9a6919f3788fbd79381abd69}{Animation\-\_\-\-Frame\-Set\-Size} (Animation $\ast$anim, unsigned int frame\-\_\-id, int change\-\_\-size, float size\-\_\-x, float size\-\_\-y)
+\item 
+float Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_ga12f784bda06af1e020703af35ed4c887}{Animation\-\_\-\-Frame\-Get\-Duration} (Animation $\ast$anim, unsigned int frame\-\_\-id)
+\item 
+Texture $\ast$Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_ga11bb3d4c1bb6d69128d1b09c143eeeb3}{Animation\-\_\-\-Frame\-Get\-Texture} (Animation $\ast$anim, unsigned int frame\-\_\-id, int $\ast$rect\-\_\-x, int $\ast$rect\-\_\-y, int $\ast$rect\-\_\-w, int $\ast$rect\-\_\-h)
+\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_gabc660765d3f4531ffe9d80a21c5abfa5}{Animation\-\_\-\-Frame\-Get\-Color} (Animation $\ast$anim, unsigned int frame\-\_\-id, unsigned char $\ast$red, unsigned char $\ast$green, unsigned char $\ast$blue, unsigned char $\ast$alpha)
+\item 
+\hyperlink{group____consts__color_gafe1825ea3ea95c415448a35dc1f1418d}{Y\-A\-G\-L\-\_\-\-Color} Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_gae02cd2d6126c4d50a7f53efe530cc90b}{Animation\-\_\-\-Frame\-Get\-Color\-Ex} (Animation $\ast$anim, unsigned int frame\-\_\-id)
+\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_ga7fb75f33187b6a2371262a0640e48845}{Animation\-\_\-\-Frame\-Get\-Blend\-Mode} (Animation $\ast$anim, unsigned int frame\-\_\-id)
+\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____animation_ga52c7d5af0b165bb8f739935e9cffa18d}{Animation\-\_\-\-Frame\-Get\-Size} (Animation $\ast$anim, unsigned int frame\-\_\-id, float $\ast$size\-\_\-x, float $\ast$size\-\_\-y)
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Animations handling. Animation consists of multiple frames, each one with parameters like\-: duration, texture, texture rectangle, color...
+
+An Animation is to be assigned to a Sprite, and then played. 
+
+\subsection{Function Documentation}
+\hypertarget{group____animation_gaa6b1dc5a5f5806f988da1bae9f8681f0}{\index{Animations@{Animations}!Animation\-\_\-\-Create@{Animation\-\_\-\-Create}}
+\index{Animation\-\_\-\-Create@{Animation\-\_\-\-Create}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Create}]{\setlength{\rightskip}{0pt plus 5cm}Animation$\ast$ Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Create (
+\begin{DoxyParamCaption}
+\item[{unsigned int}]{frames\-\_\-count}
+\end{DoxyParamCaption}
+)}}\label{group____animation_gaa6b1dc5a5f5806f988da1bae9f8681f0}
+
+
+Create an Animation object. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em frames\-\_\-count\mbox{[}in\mbox{]}} & Maximum frames\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Animation pointer 
+\end{DoxyReturn}
+\hypertarget{group____animation_ga50bcd7d47652ff0427217fdcbb9eb938}{\index{Animations@{Animations}!Animation\-\_\-\-Is\-Animation@{Animation\-\_\-\-Is\-Animation}}
+\index{Animation\-\_\-\-Is\-Animation@{Animation\-\_\-\-Is\-Animation}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Is\-Animation}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Is\-Animation (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim}
+\end{DoxyParamCaption}
+)}}\label{group____animation_ga50bcd7d47652ff0427217fdcbb9eb938}
+
+
+Check if the pointer is an Animation object. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em anim\mbox{[}in\mbox{]}} & Any pointer\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+1 if it's an Animation, 0 otherwise 
+\end{DoxyReturn}
+\hypertarget{group____animation_gaa83f6f2b311c45480007ef18011e37d2}{\index{Animations@{Animations}!Animation\-\_\-\-Add\-Frame\-Ex@{Animation\-\_\-\-Add\-Frame\-Ex}}
+\index{Animation\-\_\-\-Add\-Frame\-Ex@{Animation\-\_\-\-Add\-Frame\-Ex}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Add\-Frame\-Ex}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Add\-Frame\-Ex (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim, }
+\item[{float}]{duration, }
+\item[{Texture $\ast$}]{tex, }
+\item[{int}]{rect\-\_\-x, }
+\item[{int}]{rect\-\_\-y, }
+\item[{int}]{rect\-\_\-w, }
+\item[{int}]{rect\-\_\-h, }
+\item[{{\bf Y\-A\-G\-L\-\_\-\-Color}}]{color, }
+\item[{{\bf e\-B\-L\-E\-N\-D\-\_\-\-M\-O\-D\-E}}]{blend\-\_\-mode, }
+\item[{int}]{change\-\_\-size, }
+\item[{float}]{size\-\_\-x, }
+\item[{float}]{size\-\_\-y}
+\end{DoxyParamCaption}
+)}}\label{group____animation_gaa83f6f2b311c45480007ef18011e37d2}
+
+
+Add a frame to an Animation object. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em anim\mbox{[}in\mbox{]}} & Animation object \\
+\hline
+{\em duration\mbox{[}in\mbox{]}} & Frame duration (in seconds) \\
+\hline
+{\em tex\mbox{[}in\mbox{]}} & Texture object \\
+\hline
+{\em rect\-\_\-x\mbox{[}in\mbox{]}} & Texture rectangle upper-\/left corner x-\/coord \\
+\hline
+{\em rect\-\_\-y\mbox{[}in\mbox{]}} & Texture rectangle upper-\/left corner y-\/coord \\
+\hline
+{\em rect\-\_\-w\mbox{[}in\mbox{]}} & Texture rectangle width \\
+\hline
+{\em rect\-\_\-h\mbox{[}in\mbox{]}} & Texture rectangle height \\
+\hline
+{\em color\mbox{[}in\mbox{]}} & Frame color \\
+\hline
+{\em change\-\_\-size\mbox{[}in\mbox{]}} & Tell if the frame should change the size of the Sprite \\
+\hline
+{\em size\-\_\-x\mbox{[}in\mbox{]}} & New size (width) \\
+\hline
+{\em size\-\_\-y\mbox{[}in\mbox{]}} & New size (height)\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+New frame id, or -\/1 if error (anim isn't an Animation, anim is full) 
+\end{DoxyReturn}
+\hypertarget{group____animation_ga7fef87c3fb18ab1f98e86514dbb24c73}{\index{Animations@{Animations}!Animation\-\_\-\-Add\-Frame@{Animation\-\_\-\-Add\-Frame}}
+\index{Animation\-\_\-\-Add\-Frame@{Animation\-\_\-\-Add\-Frame}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Add\-Frame}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Add\-Frame (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim, }
+\item[{float}]{duration}
+\end{DoxyParamCaption}
+)}}\label{group____animation_ga7fef87c3fb18ab1f98e86514dbb24c73}
+
+
+Add an empty frame. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em anim\mbox{[}in\mbox{]}} & Animation object \\
+\hline
+{\em duration\mbox{[}in\mbox{]}} & Frame duration (in seconds)\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+New frame id, or -\/1 if error (anim isn't an Animation, anim is full) 
+\end{DoxyReturn}
+\hypertarget{group____animation_gaa6f90cece7b33a347a37f4adff53854e}{\index{Animations@{Animations}!Animation\-\_\-\-Frame\-Set\-Blank@{Animation\-\_\-\-Frame\-Set\-Blank}}
+\index{Animation\-\_\-\-Frame\-Set\-Blank@{Animation\-\_\-\-Frame\-Set\-Blank}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Frame\-Set\-Blank}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Frame\-Set\-Blank (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim, }
+\item[{unsigned int}]{frame\-\_\-id}
+\end{DoxyParamCaption}
+)}}\label{group____animation_gaa6f90cece7b33a347a37f4adff53854e}
+
+
+Set a Frame as blank. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em anim\mbox{[}in\mbox{]}} & Animation object \\
+\hline
+{\em frame\-\_\-id\mbox{[}in\mbox{]}} & Frame I\-D to set blank \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____animation_ga0431867830d8acab6ee19c231548fceb}{\index{Animations@{Animations}!Animation\-\_\-\-Frame\-Count@{Animation\-\_\-\-Frame\-Count}}
+\index{Animation\-\_\-\-Frame\-Count@{Animation\-\_\-\-Frame\-Count}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Frame\-Count}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Frame\-Count (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim}
+\end{DoxyParamCaption}
+)}}\label{group____animation_ga0431867830d8acab6ee19c231548fceb}
+
+
+Get frames count. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em anim\mbox{[}in\mbox{]}} & Animation object\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Frames count, or -\/1 if error (anim isn't an Animation) 
+\end{DoxyReturn}
+\hypertarget{group____animation_gae4d00ed7c1b1075558d203a4b6ad3c34}{\index{Animations@{Animations}!Animation\-\_\-\-Frame\-Max@{Animation\-\_\-\-Frame\-Max}}
+\index{Animation\-\_\-\-Frame\-Max@{Animation\-\_\-\-Frame\-Max}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Frame\-Max}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Frame\-Max (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim}
+\end{DoxyParamCaption}
+)}}\label{group____animation_gae4d00ed7c1b1075558d203a4b6ad3c34}
+
+
+Get max frames. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em anim\mbox{[}in\mbox{]}} & Animation object\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Max frames count, or -\/1 if error (anim isn't an Animation) 
+\end{DoxyReturn}
+\hypertarget{group____animation_ga7274d099081070aefcc61478547506df}{\index{Animations@{Animations}!Animation\-\_\-\-Empty@{Animation\-\_\-\-Empty}}
+\index{Animation\-\_\-\-Empty@{Animation\-\_\-\-Empty}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Empty}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Empty (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim}
+\end{DoxyParamCaption}
+)}}\label{group____animation_ga7274d099081070aefcc61478547506df}
+
+
+Delete all animation's frames. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em anim\mbox{[}in\mbox{]}} & Animation object \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____animation_gae123b5273567bfb847657ff0f500c739}{\index{Animations@{Animations}!Animation\-\_\-\-Destroy@{Animation\-\_\-\-Destroy}}
+\index{Animation\-\_\-\-Destroy@{Animation\-\_\-\-Destroy}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Destroy}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Destroy (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim}
+\end{DoxyParamCaption}
+)}}\label{group____animation_gae123b5273567bfb847657ff0f500c739}
+
+
+Destroy animation. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em anim\mbox{[}in\mbox{]}} & Animation object\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+1, or 0 on error 
+\end{DoxyReturn}
+\hypertarget{group____animation_gab60d6ad9637fd8168ebd42c4ea7c9488}{\index{Animations@{Animations}!Animation\-\_\-\-Frame\-Set\-Duration@{Animation\-\_\-\-Frame\-Set\-Duration}}
+\index{Animation\-\_\-\-Frame\-Set\-Duration@{Animation\-\_\-\-Frame\-Set\-Duration}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Frame\-Set\-Duration}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Frame\-Set\-Duration (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim, }
+\item[{unsigned int}]{frame\-\_\-id, }
+\item[{float}]{duration}
+\end{DoxyParamCaption}
+)}}\label{group____animation_gab60d6ad9637fd8168ebd42c4ea7c9488}
+
+
+Set the duration of a frame. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em anim\mbox{[}in\mbox{]}} & Animation object \\
+\hline
+{\em frame\-\_\-id\mbox{[}in\mbox{]}} & Frame I\-D \\
+\hline
+{\em duration\mbox{[}in\mbox{]}} & New duration (in seconds) \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____animation_gaea854810015381a73bbcdc9f2a710e33}{\index{Animations@{Animations}!Animation\-\_\-\-Frame\-Set\-Texture@{Animation\-\_\-\-Frame\-Set\-Texture}}
+\index{Animation\-\_\-\-Frame\-Set\-Texture@{Animation\-\_\-\-Frame\-Set\-Texture}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Frame\-Set\-Texture}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Frame\-Set\-Texture (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim, }
+\item[{unsigned int}]{frame\-\_\-id, }
+\item[{Texture $\ast$}]{tex, }
+\item[{int}]{rect\-\_\-x, }
+\item[{int}]{rect\-\_\-y, }
+\item[{int}]{rect\-\_\-w, }
+\item[{int}]{rect\-\_\-h}
+\end{DoxyParamCaption}
+)}}\label{group____animation_gaea854810015381a73bbcdc9f2a710e33}
+
+
+Set the texture and texture rectangle of a frame. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em anim\mbox{[}in\mbox{]}} & Animation object \\
+\hline
+{\em frame\-\_\-id\mbox{[}in\mbox{]}} & Frame I\-D \\
+\hline
+{\em tex\mbox{[}in\mbox{]}} & Texture object \\
+\hline
+{\em rect\-\_\-x,rect\-\_\-y\mbox{[}in\mbox{]}} & Upper-\/left corner of the texture rectangle \\
+\hline
+{\em rect\-\_\-w,rect\-\_\-h\mbox{[}in\mbox{]}} & Size (width and height) of the texture rectangle \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____animation_gac48bc01b23ae5213b74b4fad44988eb0}{\index{Animations@{Animations}!Animation\-\_\-\-Frame\-Set\-Color@{Animation\-\_\-\-Frame\-Set\-Color}}
+\index{Animation\-\_\-\-Frame\-Set\-Color@{Animation\-\_\-\-Frame\-Set\-Color}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Frame\-Set\-Color}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Frame\-Set\-Color (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim, }
+\item[{unsigned int}]{frame\-\_\-id, }
+\item[{unsigned char}]{red, }
+\item[{unsigned char}]{green, }
+\item[{unsigned char}]{blue, }
+\item[{unsigned char}]{alpha}
+\end{DoxyParamCaption}
+)}}\label{group____animation_gac48bc01b23ae5213b74b4fad44988eb0}
+
+
+Set frame color. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em anim\mbox{[}in\mbox{]}} & Animation object \\
+\hline
+{\em frame\-\_\-id\mbox{[}in\mbox{]}} & Frame I\-D \\
+\hline
+{\em red,green,blue,alpha\mbox{[}in\mbox{]}} & New color (R\-G\-B\-A) \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____animation_gabb9fe48f2634ef1660d98c76afb907d1}{\index{Animations@{Animations}!Animation\-\_\-\-Frame\-Set\-Color\-Ex@{Animation\-\_\-\-Frame\-Set\-Color\-Ex}}
+\index{Animation\-\_\-\-Frame\-Set\-Color\-Ex@{Animation\-\_\-\-Frame\-Set\-Color\-Ex}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Frame\-Set\-Color\-Ex}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Frame\-Set\-Color\-Ex (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim, }
+\item[{unsigned int}]{frame\-\_\-id, }
+\item[{{\bf Y\-A\-G\-L\-\_\-\-Color}}]{color}
+\end{DoxyParamCaption}
+)}}\label{group____animation_gabb9fe48f2634ef1660d98c76afb907d1}
+
+
+Set frame color. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em anim\mbox{[}in\mbox{]}} & Animation object \\
+\hline
+{\em frame\-\_\-id\mbox{[}in\mbox{]}} & Frame I\-D \\
+\hline
+{\em color\mbox{[}in\mbox{]}} & Color (0x\-R\-R\-G\-G\-B\-B\-A\-A) \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____animation_ga85aefd29fbf1fa92f202a43795d1bf0d}{\index{Animations@{Animations}!Animation\-\_\-\-Frame\-Set\-Blend\-Mode@{Animation\-\_\-\-Frame\-Set\-Blend\-Mode}}
+\index{Animation\-\_\-\-Frame\-Set\-Blend\-Mode@{Animation\-\_\-\-Frame\-Set\-Blend\-Mode}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Frame\-Set\-Blend\-Mode}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Frame\-Set\-Blend\-Mode (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim, }
+\item[{unsigned int}]{frame\-\_\-id, }
+\item[{{\bf e\-B\-L\-E\-N\-D\-\_\-\-M\-O\-D\-E}}]{blend\-\_\-mode}
+\end{DoxyParamCaption}
+)}}\label{group____animation_ga85aefd29fbf1fa92f202a43795d1bf0d}
+
+
+Set frame blend mode. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em anim\mbox{[}in\mbox{]}} & Animation object \\
+\hline
+{\em frame\-\_\-id\mbox{[}in\mbox{]}} & Frame I\-D \\
+\hline
+{\em blend\-\_\-mode\mbox{[}in\mbox{]}} & See e\-B\-L\-E\-N\-D\-\_\-\-M\-O\-D\-E \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____animation_gabe6718dd9a6919f3788fbd79381abd69}{\index{Animations@{Animations}!Animation\-\_\-\-Frame\-Set\-Size@{Animation\-\_\-\-Frame\-Set\-Size}}
+\index{Animation\-\_\-\-Frame\-Set\-Size@{Animation\-\_\-\-Frame\-Set\-Size}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Frame\-Set\-Size}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Frame\-Set\-Size (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim, }
+\item[{unsigned int}]{frame\-\_\-id, }
+\item[{int}]{change\-\_\-size, }
+\item[{float}]{size\-\_\-x, }
+\item[{float}]{size\-\_\-y}
+\end{DoxyParamCaption}
+)}}\label{group____animation_gabe6718dd9a6919f3788fbd79381abd69}
+
+\begin{DoxyParams}{Parameters}
+{\em anim\mbox{[}in\mbox{]}} & Animation object \\
+\hline
+{\em frame\-\_\-id\mbox{[}in\mbox{]}} & Frame I\-D \\
+\hline
+{\em change\-\_\-size\mbox{[}in\mbox{]}} & \\
+\hline
+{\em size\-\_\-x,size\-\_\-y\mbox{[}in\mbox{]}} & \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____animation_ga12f784bda06af1e020703af35ed4c887}{\index{Animations@{Animations}!Animation\-\_\-\-Frame\-Get\-Duration@{Animation\-\_\-\-Frame\-Get\-Duration}}
+\index{Animation\-\_\-\-Frame\-Get\-Duration@{Animation\-\_\-\-Frame\-Get\-Duration}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Frame\-Get\-Duration}]{\setlength{\rightskip}{0pt plus 5cm}float Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Frame\-Get\-Duration (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim, }
+\item[{unsigned int}]{frame\-\_\-id}
+\end{DoxyParamCaption}
+)}}\label{group____animation_ga12f784bda06af1e020703af35ed4c887}
+
+\begin{DoxyParams}{Parameters}
+{\em \textbackslash{}param} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\hypertarget{group____animation_ga11bb3d4c1bb6d69128d1b09c143eeeb3}{\index{Animations@{Animations}!Animation\-\_\-\-Frame\-Get\-Texture@{Animation\-\_\-\-Frame\-Get\-Texture}}
+\index{Animation\-\_\-\-Frame\-Get\-Texture@{Animation\-\_\-\-Frame\-Get\-Texture}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Frame\-Get\-Texture}]{\setlength{\rightskip}{0pt plus 5cm}Texture$\ast$ Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Frame\-Get\-Texture (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim, }
+\item[{unsigned int}]{frame\-\_\-id, }
+\item[{int $\ast$}]{rect\-\_\-x, }
+\item[{int $\ast$}]{rect\-\_\-y, }
+\item[{int $\ast$}]{rect\-\_\-w, }
+\item[{int $\ast$}]{rect\-\_\-h}
+\end{DoxyParamCaption}
+)}}\label{group____animation_ga11bb3d4c1bb6d69128d1b09c143eeeb3}
+
+\begin{DoxyParams}{Parameters}
+{\em \textbackslash{}param} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\hypertarget{group____animation_gabc660765d3f4531ffe9d80a21c5abfa5}{\index{Animations@{Animations}!Animation\-\_\-\-Frame\-Get\-Color@{Animation\-\_\-\-Frame\-Get\-Color}}
+\index{Animation\-\_\-\-Frame\-Get\-Color@{Animation\-\_\-\-Frame\-Get\-Color}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Frame\-Get\-Color}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Frame\-Get\-Color (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim, }
+\item[{unsigned int}]{frame\-\_\-id, }
+\item[{unsigned char $\ast$}]{red, }
+\item[{unsigned char $\ast$}]{green, }
+\item[{unsigned char $\ast$}]{blue, }
+\item[{unsigned char $\ast$}]{alpha}
+\end{DoxyParamCaption}
+)}}\label{group____animation_gabc660765d3f4531ffe9d80a21c5abfa5}
+
+\begin{DoxyParams}{Parameters}
+{\em \textbackslash{}param} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\hypertarget{group____animation_gae02cd2d6126c4d50a7f53efe530cc90b}{\index{Animations@{Animations}!Animation\-\_\-\-Frame\-Get\-Color\-Ex@{Animation\-\_\-\-Frame\-Get\-Color\-Ex}}
+\index{Animation\-\_\-\-Frame\-Get\-Color\-Ex@{Animation\-\_\-\-Frame\-Get\-Color\-Ex}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Frame\-Get\-Color\-Ex}]{\setlength{\rightskip}{0pt plus 5cm}{\bf Y\-A\-G\-L\-\_\-\-Color} Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Frame\-Get\-Color\-Ex (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim, }
+\item[{unsigned int}]{frame\-\_\-id}
+\end{DoxyParamCaption}
+)}}\label{group____animation_gae02cd2d6126c4d50a7f53efe530cc90b}
+
+\begin{DoxyParams}{Parameters}
+{\em \textbackslash{}param} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\hypertarget{group____animation_ga7fb75f33187b6a2371262a0640e48845}{\index{Animations@{Animations}!Animation\-\_\-\-Frame\-Get\-Blend\-Mode@{Animation\-\_\-\-Frame\-Get\-Blend\-Mode}}
+\index{Animation\-\_\-\-Frame\-Get\-Blend\-Mode@{Animation\-\_\-\-Frame\-Get\-Blend\-Mode}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Frame\-Get\-Blend\-Mode}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Frame\-Get\-Blend\-Mode (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim, }
+\item[{unsigned int}]{frame\-\_\-id}
+\end{DoxyParamCaption}
+)}}\label{group____animation_ga7fb75f33187b6a2371262a0640e48845}
+
+\begin{DoxyParams}{Parameters}
+{\em \textbackslash{}param} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\hypertarget{group____animation_ga52c7d5af0b165bb8f739935e9cffa18d}{\index{Animations@{Animations}!Animation\-\_\-\-Frame\-Get\-Size@{Animation\-\_\-\-Frame\-Get\-Size}}
+\index{Animation\-\_\-\-Frame\-Get\-Size@{Animation\-\_\-\-Frame\-Get\-Size}!Animations@{Animations}}
+\subsubsection[{Animation\-\_\-\-Frame\-Get\-Size}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I Animation\-\_\-\-Frame\-Get\-Size (
+\begin{DoxyParamCaption}
+\item[{Animation $\ast$}]{anim, }
+\item[{unsigned int}]{frame\-\_\-id, }
+\item[{float $\ast$}]{size\-\_\-x, }
+\item[{float $\ast$}]{size\-\_\-y}
+\end{DoxyParamCaption}
+)}}\label{group____animation_ga52c7d5af0b165bb8f739935e9cffa18d}
+
+\begin{DoxyParams}{Parameters}
+{\em \textbackslash{}param} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}

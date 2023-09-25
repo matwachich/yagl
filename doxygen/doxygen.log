@@ -1,0 +1,367 @@
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:16: warning: argument 'in' of command @param is not found in the argument list of System_Init(eDEBUG debug_mode)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:98: warning: argument 'in' of command @param is not found in the argument list of System_DebugOut(const char *data, int err_lvl)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:98: warning: argument 'in' of command @param is not found in the argument list of System_DebugOut(const char *data, int err_lvl)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:110: warning: argument 'in' of command @param is not found in the argument list of System_SetDebugCallback(YAGLDebugProc debug_proc)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:164: warning: argument 'in' of command @param is not found in the argument list of System_GetVideoMode(int mode, int *width, int *height, int *red_bits, int *green_bits, int *blue_bits)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:164: warning: argument 'out' of command @param is not found in the argument list of System_GetVideoMode(int mode, int *width, int *height, int *red_bits, int *green_bits, int *blue_bits)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:164: warning: argument 'out' of command @param is not found in the argument list of System_GetVideoMode(int mode, int *width, int *height, int *red_bits, int *green_bits, int *blue_bits)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:164: warning: argument 'out' of command @param is not found in the argument list of System_GetVideoMode(int mode, int *width, int *height, int *red_bits, int *green_bits, int *blue_bits)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:164: warning: argument 'out' of command @param is not found in the argument list of System_GetVideoMode(int mode, int *width, int *height, int *red_bits, int *green_bits, int *blue_bits)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:164: warning: argument 'out' of command @param is not found in the argument list of System_GetVideoMode(int mode, int *width, int *height, int *red_bits, int *green_bits, int *blue_bits)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:185: warning: argument 'out' of command @param is not found in the argument list of System_GetDesktopMode(int *width, int *height, int *red_bits, int *green_bits, int *blue_bits)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:185: warning: argument 'out' of command @param is not found in the argument list of System_GetDesktopMode(int *width, int *height, int *red_bits, int *green_bits, int *blue_bits)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:185: warning: argument 'out' of command @param is not found in the argument list of System_GetDesktopMode(int *width, int *height, int *red_bits, int *green_bits, int *blue_bits)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:185: warning: argument 'out' of command @param is not found in the argument list of System_GetDesktopMode(int *width, int *height, int *red_bits, int *green_bits, int *blue_bits)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:185: warning: argument 'out' of command @param is not found in the argument list of System_GetDesktopMode(int *width, int *height, int *red_bits, int *green_bits, int *blue_bits)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:204: warning: argument 'out' of command @param is not found in the argument list of System_GetStats(int *num_textures, int *num_texture_maps, int *num_quads, int *num_sprites, int *num_sprite_sets, int *num_animations, int *num_particle_emitters, int *num_shaders, int *num_bmp_fonts, int *num_bmp_texts)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:204: warning: argument 'out' of command @param is not found in the argument list of System_GetStats(int *num_textures, int *num_texture_maps, int *num_quads, int *num_sprites, int *num_sprite_sets, int *num_animations, int *num_particle_emitters, int *num_shaders, int *num_bmp_fonts, int *num_bmp_texts)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:204: warning: argument 'out' of command @param is not found in the argument list of System_GetStats(int *num_textures, int *num_texture_maps, int *num_quads, int *num_sprites, int *num_sprite_sets, int *num_animations, int *num_particle_emitters, int *num_shaders, int *num_bmp_fonts, int *num_bmp_texts)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:204: warning: argument 'out' of command @param is not found in the argument list of System_GetStats(int *num_textures, int *num_texture_maps, int *num_quads, int *num_sprites, int *num_sprite_sets, int *num_animations, int *num_particle_emitters, int *num_shaders, int *num_bmp_fonts, int *num_bmp_texts)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:204: warning: argument 'out' of command @param is not found in the argument list of System_GetStats(int *num_textures, int *num_texture_maps, int *num_quads, int *num_sprites, int *num_sprite_sets, int *num_animations, int *num_particle_emitters, int *num_shaders, int *num_bmp_fonts, int *num_bmp_texts)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:204: warning: argument 'out' of command @param is not found in the argument list of System_GetStats(int *num_textures, int *num_texture_maps, int *num_quads, int *num_sprites, int *num_sprite_sets, int *num_animations, int *num_particle_emitters, int *num_shaders, int *num_bmp_fonts, int *num_bmp_texts)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:204: warning: argument 'out' of command @param is not found in the argument list of System_GetStats(int *num_textures, int *num_texture_maps, int *num_quads, int *num_sprites, int *num_sprite_sets, int *num_animations, int *num_particle_emitters, int *num_shaders, int *num_bmp_fonts, int *num_bmp_texts)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:204: warning: argument 'out' of command @param is not found in the argument list of System_GetStats(int *num_textures, int *num_texture_maps, int *num_quads, int *num_sprites, int *num_sprite_sets, int *num_animations, int *num_particle_emitters, int *num_shaders, int *num_bmp_fonts, int *num_bmp_texts)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:204: warning: argument 'out' of command @param is not found in the argument list of System_GetStats(int *num_textures, int *num_texture_maps, int *num_quads, int *num_sprites, int *num_sprite_sets, int *num_animations, int *num_particle_emitters, int *num_shaders, int *num_bmp_fonts, int *num_bmp_texts)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:204: warning: argument 'out' of command @param is not found in the argument list of System_GetStats(int *num_textures, int *num_texture_maps, int *num_quads, int *num_sprites, int *num_sprite_sets, int *num_animations, int *num_particle_emitters, int *num_shaders, int *num_bmp_fonts, int *num_bmp_texts)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:231: warning: argument 'in' of command @param is not found in the argument list of System_GetVersion(eVERSION flag, int *major, int *minor, int *revision)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:231: warning: argument 'out' of command @param is not found in the argument list of System_GetVersion(eVERSION flag, int *major, int *minor, int *revision)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:231: warning: argument 'out' of command @param is not found in the argument list of System_GetVersion(eVERSION flag, int *major, int *minor, int *revision)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/system.c:231: warning: argument 'out' of command @param is not found in the argument list of System_GetVersion(eVERSION flag, int *major, int *minor, int *revision)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:13: warning: argument 'in' of command @param is not found in the argument list of Window_Create(const int width, const int height, const int red_bits, const int green_bits, const int blue_bits, const int fullscreen, const char title[], int resizable, const int multisample)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:13: warning: argument 'in' of command @param is not found in the argument list of Window_Create(const int width, const int height, const int red_bits, const int green_bits, const int blue_bits, const int fullscreen, const char title[], int resizable, const int multisample)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:13: warning: argument 'in' of command @param is not found in the argument list of Window_Create(const int width, const int height, const int red_bits, const int green_bits, const int blue_bits, const int fullscreen, const char title[], int resizable, const int multisample)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:13: warning: argument 'in' of command @param is not found in the argument list of Window_Create(const int width, const int height, const int red_bits, const int green_bits, const int blue_bits, const int fullscreen, const char title[], int resizable, const int multisample)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:13: warning: argument 'in' of command @param is not found in the argument list of Window_Create(const int width, const int height, const int red_bits, const int green_bits, const int blue_bits, const int fullscreen, const char title[], int resizable, const int multisample)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:13: warning: argument 'in' of command @param is not found in the argument list of Window_Create(const int width, const int height, const int red_bits, const int green_bits, const int blue_bits, const int fullscreen, const char title[], int resizable, const int multisample)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:13: warning: argument 'in' of command @param is not found in the argument list of Window_Create(const int width, const int height, const int red_bits, const int green_bits, const int blue_bits, const int fullscreen, const char title[], int resizable, const int multisample)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:13: warning: argument 'in' of command @param is not found in the argument list of Window_Create(const int width, const int height, const int red_bits, const int green_bits, const int blue_bits, const int fullscreen, const char title[], int resizable, const int multisample)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:13: warning: argument 'in' of command @param is not found in the argument list of Window_Create(const int width, const int height, const int red_bits, const int green_bits, const int blue_bits, const int fullscreen, const char title[], int resizable, const int multisample)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:92: warning: argument 'in' of command @param is not found in the argument list of Window_CreateEx(int video_mode_id, const char title[], int multisample)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:92: warning: argument 'in' of command @param is not found in the argument list of Window_CreateEx(int video_mode_id, const char title[], int multisample)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:92: warning: argument 'in' of command @param is not found in the argument list of Window_CreateEx(int video_mode_id, const char title[], int multisample)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:148: warning: argument 'in' of command @param is not found in the argument list of Window_SetPos(const int x, const int y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:148: warning: argument 'in' of command @param is not found in the argument list of Window_SetPos(const int x, const int y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:160: warning: argument 'in' of command @param is not found in the argument list of Window_SetSize(const int w, const int h)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:160: warning: argument 'in' of command @param is not found in the argument list of Window_SetSize(const int w, const int h)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:170: warning: argument 'out' of command @param is not found in the argument list of Window_GetSize(int *w, int *h)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:170: warning: argument 'out' of command @param is not found in the argument list of Window_GetSize(int *w, int *h)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:180: warning: argument 'in' of command @param is not found in the argument list of Window_SetTitle(const char title[])
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:189: warning: argument 'in' of command @param is not found in the argument list of Window_SetVisible(const int flag)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:231: warning: argument 'in' of command @param is not found in the argument list of Window_Capture(const char filepath[], eCAPTURE_TYPE type, int x, int y, int w, int h)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:231: warning: argument 'in' of command @param is not found in the argument list of Window_Capture(const char filepath[], eCAPTURE_TYPE type, int x, int y, int w, int h)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:231: warning: argument 'in' of command @param is not found in the argument list of Window_Capture(const char filepath[], eCAPTURE_TYPE type, int x, int y, int w, int h)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:231: warning: argument 'in' of command @param is not found in the argument list of Window_Capture(const char filepath[], eCAPTURE_TYPE type, int x, int y, int w, int h)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:231: warning: argument 'in' of command @param is not found in the argument list of Window_Capture(const char filepath[], eCAPTURE_TYPE type, int x, int y, int w, int h)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:231: warning: argument 'in' of command @param is not found in the argument list of Window_Capture(const char filepath[], eCAPTURE_TYPE type, int x, int y, int w, int h)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:249: warning: argument 'in' of command @param is not found in the argument list of Window_SetCursor(const int status)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:262: warning: argument 'in' of command @param is not found in the argument list of Window_SetCloseCallback(YAGLWinCloseProc proc)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:271: warning: argument 'in' of command @param is not found in the argument list of Window_SetSizeCallback(YAGLWinSizeProc proc)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/window.c:280: warning: argument 'in' of command @param is not found in the argument list of Window_SetRefreshCallback(YAGLWinRefreshProc proc)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:13: warning: argument 'in' of command @param is not found in the argument list of Misc_Sleep(const double time)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:31: warning: argument 'in' of command @param is not found in the argument list of Misc_TimerDiff(const double timestamp)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:42: warning: argument 'in' of command @param is not found in the argument list of Misc_RandomI(const int min, const int max)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:42: warning: argument 'in' of command @param is not found in the argument list of Misc_RandomI(const int min, const int max)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:42: warning: The following parameters of Misc_RandomI(const int min, const int max) are not documented:
+  parameter 'max'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:54: warning: argument 'in' of command @param is not found in the argument list of Misc_RandomF(const double min, const double max)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:54: warning: argument 'in' of command @param is not found in the argument list of Misc_RandomF(const double min, const double max)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:54: warning: The following parameters of Misc_RandomF(const double min, const double max) are not documented:
+  parameter 'max'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:66: warning: argument 'in' of command @param is not found in the argument list of Misc_Color(unsigned char red, unsigned char green, unsigned char blue, unsigned char alpha)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:66: warning: argument 'in' of command @param is not found in the argument list of Misc_Color(unsigned char red, unsigned char green, unsigned char blue, unsigned char alpha)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:66: warning: argument 'in' of command @param is not found in the argument list of Misc_Color(unsigned char red, unsigned char green, unsigned char blue, unsigned char alpha)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:66: warning: argument 'in' of command @param is not found in the argument list of Misc_Color(unsigned char red, unsigned char green, unsigned char blue, unsigned char alpha)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:80: warning: argument 'out' of command @param is not found in the argument list of Misc_ColorComponents(YAGL_Color color, unsigned char *red, unsigned char *green, unsigned char *blue, unsigned char *alpha)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:80: warning: argument 'out' of command @param is not found in the argument list of Misc_ColorComponents(YAGL_Color color, unsigned char *red, unsigned char *green, unsigned char *blue, unsigned char *alpha)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:80: warning: argument 'out' of command @param is not found in the argument list of Misc_ColorComponents(YAGL_Color color, unsigned char *red, unsigned char *green, unsigned char *blue, unsigned char *alpha)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:80: warning: argument 'out' of command @param is not found in the argument list of Misc_ColorComponents(YAGL_Color color, unsigned char *red, unsigned char *green, unsigned char *blue, unsigned char *alpha)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/misc.c:80: warning: The following parameters of Misc_ColorComponents(YAGL_Color color, unsigned char *red, unsigned char *green, unsigned char *blue, unsigned char *alpha) are not documented:
+  parameter 'color'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:73: warning: argument 'in' of command @param is not found in the argument list of Animation_Create(unsigned int frames_count)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:100: warning: argument 'in' of command @param is not found in the argument list of Animation_IsAnimation(Animation *anim)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:113: warning: argument 'in' of command @param is not found in the argument list of Animation_AddFrameEx(Animation *anim, float duration, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h, YAGL_Color color, eBLEND_MODE blend_mode, int change_size, float size_x, float size_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:113: warning: argument 'in' of command @param is not found in the argument list of Animation_AddFrameEx(Animation *anim, float duration, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h, YAGL_Color color, eBLEND_MODE blend_mode, int change_size, float size_x, float size_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:113: warning: argument 'in' of command @param is not found in the argument list of Animation_AddFrameEx(Animation *anim, float duration, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h, YAGL_Color color, eBLEND_MODE blend_mode, int change_size, float size_x, float size_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:113: warning: argument 'in' of command @param is not found in the argument list of Animation_AddFrameEx(Animation *anim, float duration, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h, YAGL_Color color, eBLEND_MODE blend_mode, int change_size, float size_x, float size_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:113: warning: argument 'in' of command @param is not found in the argument list of Animation_AddFrameEx(Animation *anim, float duration, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h, YAGL_Color color, eBLEND_MODE blend_mode, int change_size, float size_x, float size_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:113: warning: argument 'in' of command @param is not found in the argument list of Animation_AddFrameEx(Animation *anim, float duration, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h, YAGL_Color color, eBLEND_MODE blend_mode, int change_size, float size_x, float size_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:113: warning: argument 'in' of command @param is not found in the argument list of Animation_AddFrameEx(Animation *anim, float duration, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h, YAGL_Color color, eBLEND_MODE blend_mode, int change_size, float size_x, float size_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:113: warning: argument 'in' of command @param is not found in the argument list of Animation_AddFrameEx(Animation *anim, float duration, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h, YAGL_Color color, eBLEND_MODE blend_mode, int change_size, float size_x, float size_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:113: warning: argument 'in' of command @param is not found in the argument list of Animation_AddFrameEx(Animation *anim, float duration, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h, YAGL_Color color, eBLEND_MODE blend_mode, int change_size, float size_x, float size_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:113: warning: argument 'in' of command @param is not found in the argument list of Animation_AddFrameEx(Animation *anim, float duration, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h, YAGL_Color color, eBLEND_MODE blend_mode, int change_size, float size_x, float size_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:113: warning: argument 'in' of command @param is not found in the argument list of Animation_AddFrameEx(Animation *anim, float duration, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h, YAGL_Color color, eBLEND_MODE blend_mode, int change_size, float size_x, float size_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:113: warning: The following parameters of Animation_AddFrameEx(Animation *anim, float duration, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h, YAGL_Color color, eBLEND_MODE blend_mode, int change_size, float size_x, float size_y) are not documented:
+  parameter 'blend_mode'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:154: warning: argument 'in' of command @param is not found in the argument list of Animation_AddFrame(Animation *anim, float duration)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:154: warning: argument 'in' of command @param is not found in the argument list of Animation_AddFrame(Animation *anim, float duration)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:177: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetBlank(Animation *anim, unsigned int frame_id)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:177: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetBlank(Animation *anim, unsigned int frame_id)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:193: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameCount(Animation *anim)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:207: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameMax(Animation *anim)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:221: warning: argument 'in' of command @param is not found in the argument list of Animation_Empty(Animation *anim)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:238: warning: argument 'in' of command @param is not found in the argument list of Animation_Destroy(Animation *anim)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:256: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetDuration(Animation *anim, unsigned int frame_id, float duration)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:256: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetDuration(Animation *anim, unsigned int frame_id, float duration)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:256: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetDuration(Animation *anim, unsigned int frame_id, float duration)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:272: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetTexture(Animation *anim, unsigned int frame_id, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:272: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetTexture(Animation *anim, unsigned int frame_id, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:272: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetTexture(Animation *anim, unsigned int frame_id, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:272: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetTexture(Animation *anim, unsigned int frame_id, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:272: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetTexture(Animation *anim, unsigned int frame_id, Texture *tex, int rect_x, int rect_y, int rect_w, int rect_h)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:291: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetColor(Animation *anim, unsigned int frame_id, unsigned char red, unsigned char green, unsigned char blue, unsigned char alpha)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:291: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetColor(Animation *anim, unsigned int frame_id, unsigned char red, unsigned char green, unsigned char blue, unsigned char alpha)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:291: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetColor(Animation *anim, unsigned int frame_id, unsigned char red, unsigned char green, unsigned char blue, unsigned char alpha)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:307: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetColorEx(Animation *anim, unsigned int frame_id, YAGL_Color color)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:307: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetColorEx(Animation *anim, unsigned int frame_id, YAGL_Color color)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:307: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetColorEx(Animation *anim, unsigned int frame_id, YAGL_Color color)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:323: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetBlendMode(Animation *anim, unsigned int frame_id, eBLEND_MODE blend_mode)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:323: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetBlendMode(Animation *anim, unsigned int frame_id, eBLEND_MODE blend_mode)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:323: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetBlendMode(Animation *anim, unsigned int frame_id, eBLEND_MODE blend_mode)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:339: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetSize(Animation *anim, unsigned int frame_id, int change_size, float size_x, float size_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:339: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetSize(Animation *anim, unsigned int frame_id, int change_size, float size_x, float size_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:339: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetSize(Animation *anim, unsigned int frame_id, int change_size, float size_x, float size_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:339: warning: argument 'in' of command @param is not found in the argument list of Animation_FrameSetSize(Animation *anim, unsigned int frame_id, int change_size, float size_x, float size_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:360: warning: argument 'param' of command @param is not found in the argument list of Animation_FrameGetDuration(Animation *anim, unsigned int frame_id)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:360: warning: The following parameters of Animation_FrameGetDuration(Animation *anim, unsigned int frame_id) are not documented:
+  parameter 'anim'
+  parameter 'frame_id'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:376: warning: argument 'param' of command @param is not found in the argument list of Animation_FrameGetTexture(Animation *anim, unsigned int frame_id, int *rect_x, int *rect_y, int *rect_w, int *rect_h)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:376: warning: The following parameters of Animation_FrameGetTexture(Animation *anim, unsigned int frame_id, int *rect_x, int *rect_y, int *rect_w, int *rect_h) are not documented:
+  parameter 'anim'
+  parameter 'frame_id'
+  parameter 'rect_x'
+  parameter 'rect_y'
+  parameter 'rect_w'
+  parameter 'rect_h'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:404: warning: argument 'param' of command @param is not found in the argument list of Animation_FrameGetColor(Animation *anim, unsigned int frame_id, unsigned char *red, unsigned char *green, unsigned char *blue, unsigned char *alpha)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:404: warning: The following parameters of Animation_FrameGetColor(Animation *anim, unsigned int frame_id, unsigned char *red, unsigned char *green, unsigned char *blue, unsigned char *alpha) are not documented:
+  parameter 'anim'
+  parameter 'frame_id'
+  parameter 'red'
+  parameter 'green'
+  parameter 'blue'
+  parameter 'alpha'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:423: warning: argument 'param' of command @param is not found in the argument list of Animation_FrameGetColorEx(Animation *anim, unsigned int frame_id)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:423: warning: The following parameters of Animation_FrameGetColorEx(Animation *anim, unsigned int frame_id) are not documented:
+  parameter 'anim'
+  parameter 'frame_id'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:439: warning: argument 'param' of command @param is not found in the argument list of Animation_FrameGetBlendMode(Animation *anim, unsigned int frame_id)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:439: warning: The following parameters of Animation_FrameGetBlendMode(Animation *anim, unsigned int frame_id) are not documented:
+  parameter 'anim'
+  parameter 'frame_id'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:455: warning: argument 'param' of command @param is not found in the argument list of Animation_FrameGetSize(Animation *anim, unsigned int frame_id, float *size_x, float *size_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/animation.c:455: warning: The following parameters of Animation_FrameGetSize(Animation *anim, unsigned int frame_id, float *size_x, float *size_y) are not documented:
+  parameter 'anim'
+  parameter 'frame_id'
+  parameter 'size_x'
+  parameter 'size_y'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:15: warning: argument 'in' of command @param is not found in the argument list of Geo_PtoP_Dist(int x1, int y1, int x2, int y2)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:15: warning: argument 'in' of command @param is not found in the argument list of Geo_PtoP_Dist(int x1, int y1, int x2, int y2)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:15: warning: argument 'in' of command @param is not found in the argument list of Geo_PtoP_Dist(int x1, int y1, int x2, int y2)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:15: warning: argument 'in' of command @param is not found in the argument list of Geo_PtoP_Dist(int x1, int y1, int x2, int y2)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:29: warning: argument 'in' of command @param is not found in the argument list of Geo_PtoP_Angle(int x1, int y1, int x2, int y2)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:29: warning: argument 'in' of command @param is not found in the argument list of Geo_PtoP_Angle(int x1, int y1, int x2, int y2)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:29: warning: argument 'in' of command @param is not found in the argument list of Geo_PtoP_Angle(int x1, int y1, int x2, int y2)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:29: warning: argument 'in' of command @param is not found in the argument list of Geo_PtoP_Angle(int x1, int y1, int x2, int y2)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:47: warning: argument 'in' of command @param is not found in the argument list of Geo_PtoP_Vect(int x1, int y1, int x2, int y2, float len, float *v_x, float *v_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:47: warning: argument 'in' of command @param is not found in the argument list of Geo_PtoP_Vect(int x1, int y1, int x2, int y2, float len, float *v_x, float *v_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:47: warning: argument 'in' of command @param is not found in the argument list of Geo_PtoP_Vect(int x1, int y1, int x2, int y2, float len, float *v_x, float *v_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:47: warning: argument 'in' of command @param is not found in the argument list of Geo_PtoP_Vect(int x1, int y1, int x2, int y2, float len, float *v_x, float *v_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:47: warning: argument 'in' of command @param is not found in the argument list of Geo_PtoP_Vect(int x1, int y1, int x2, int y2, float len, float *v_x, float *v_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:47: warning: argument 'out' of command @param is not found in the argument list of Geo_PtoP_Vect(int x1, int y1, int x2, int y2, float len, float *v_x, float *v_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:47: warning: argument 'out' of command @param is not found in the argument list of Geo_PtoP_Vect(int x1, int y1, int x2, int y2, float len, float *v_x, float *v_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:68: warning: argument 'in' of command @param is not found in the argument list of Geo_SprtoP_Dist(Sprite *spr, int x, int y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:68: warning: argument 'in' of command @param is not found in the argument list of Geo_SprtoP_Dist(Sprite *spr, int x, int y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:68: warning: argument 'in' of command @param is not found in the argument list of Geo_SprtoP_Dist(Sprite *spr, int x, int y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:81: warning: argument 'param' of command @param is not found in the argument list of Geo_SprtoP_Angle(Sprite *spr, int x, int y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:85: warning: expected whitespace after param command
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:81: warning: argument 'return' of command @param is not found in the argument list of Geo_SprtoP_Angle(Sprite *spr, int x, int y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:81: warning: The following parameters of Geo_SprtoP_Angle(Sprite *spr, int x, int y) are not documented:
+  parameter 'spr'
+  parameter 'x'
+  parameter 'y'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:96: warning: argument 'param' of command @param is not found in the argument list of Geo_SprtoP_AngleDiff(Sprite *spr, int x, int y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:100: warning: expected whitespace after param command
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:96: warning: argument 'return' of command @param is not found in the argument list of Geo_SprtoP_AngleDiff(Sprite *spr, int x, int y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:96: warning: The following parameters of Geo_SprtoP_AngleDiff(Sprite *spr, int x, int y) are not documented:
+  parameter 'spr'
+  parameter 'x'
+  parameter 'y'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:142: warning: argument 'param' of command @param is not found in the argument list of Geo_SprtoP_Vect(Sprite *spr, int x, int y, float len, float *v_x, float *v_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:142: warning: argument 'param' of command @param is not found in the argument list of Geo_SprtoP_Vect(Sprite *spr, int x, int y, float len, float *v_x, float *v_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:147: warning: unexpected end of comment block while parsing the argument of command param
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:142: warning: The following parameters of Geo_SprtoP_Vect(Sprite *spr, int x, int y, float len, float *v_x, float *v_y) are not documented:
+  parameter 'spr'
+  parameter 'x'
+  parameter 'y'
+  parameter 'len'
+  parameter 'v_x'
+  parameter 'v_y'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:161: warning: argument 'param' of command @param is not found in the argument list of Geo_SprtoSpr_Dist(Sprite *spr1, Sprite *spr2)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:161: warning: The following parameters of Geo_SprtoSpr_Dist(Sprite *spr1, Sprite *spr2) are not documented:
+  parameter 'spr1'
+  parameter 'spr2'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:173: warning: argument 'param' of command @param is not found in the argument list of Geo_SprtoSpr_Angle(Sprite *spr1, Sprite *spr2)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:173: warning: The following parameters of Geo_SprtoSpr_Angle(Sprite *spr1, Sprite *spr2) are not documented:
+  parameter 'spr1'
+  parameter 'spr2'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:187: warning: argument 'param' of command @param is not found in the argument list of Geo_SprtoSpr_AngleDiff(Sprite *spr1, Sprite *spr2)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:187: warning: The following parameters of Geo_SprtoSpr_AngleDiff(Sprite *spr1, Sprite *spr2) are not documented:
+  parameter 'spr1'
+  parameter 'spr2'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:232: warning: argument 'param' of command @param is not found in the argument list of Geo_SprtoSpr_Vect(Sprite *spr1, Sprite *spr2, float len, float *v_x, float *v_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:232: warning: argument 'param' of command @param is not found in the argument list of Geo_SprtoSpr_Vect(Sprite *spr1, Sprite *spr2, float len, float *v_x, float *v_y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:237: warning: unexpected end of comment block while parsing the argument of command param
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:232: warning: The following parameters of Geo_SprtoSpr_Vect(Sprite *spr1, Sprite *spr2, float len, float *v_x, float *v_y) are not documented:
+  parameter 'spr1'
+  parameter 'spr2'
+  parameter 'len'
+  parameter 'v_x'
+  parameter 'v_y'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:251: warning: argument 'param' of command @param is not found in the argument list of Geo_PolarToCartesian(float angle, float len, float *x, float *y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:251: warning: argument 'param' of command @param is not found in the argument list of Geo_PolarToCartesian(float angle, float len, float *x, float *y)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:251: warning: The following parameters of Geo_PolarToCartesian(float angle, float len, float *x, float *y) are not documented:
+  parameter 'angle'
+  parameter 'len'
+  parameter 'x'
+  parameter 'y'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:263: warning: argument 'param' of command @param is not found in the argument list of Geo_CartesianToPolar(float x, float y, float *angle, float *len)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:263: warning: argument 'param' of command @param is not found in the argument list of Geo_CartesianToPolar(float x, float y, float *angle, float *len)
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/geometry.c:263: warning: The following parameters of Geo_CartesianToPolar(float x, float y, float *angle, float *len) are not documented:
+  parameter 'x'
+  parameter 'y'
+  parameter 'angle'
+  parameter 'len'
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:88: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:89: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:90: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:91: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:92: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:93: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:94: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:95: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:96: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:97: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:98: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:99: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:100: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:101: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:102: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:103: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:104: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:105: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:106: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:107: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:108: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:109: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:110: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:111: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:112: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:113: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:114: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:115: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:116: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:117: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:118: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:119: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:120: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:121: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:122: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:123: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:124: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:125: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:126: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:127: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:128: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:129: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:130: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:131: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:132: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:133: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:134: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:135: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:136: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:137: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:138: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:139: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:140: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:141: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:142: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:143: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:144: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:145: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:146: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:147: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:148: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:149: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:150: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:151: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:152: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:153: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:154: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:155: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:156: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:157: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:158: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:159: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:160: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:163: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:164: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:165: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:166: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:167: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:168: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:169: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:170: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:171: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:174: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:175: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:176: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:188: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:189: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:190: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:191: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:192: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:193: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:194: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:195: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:196: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:197: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:198: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:199: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:200: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:201: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:202: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:203: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:204: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:205: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:207: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:208: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:209: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:210: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:211: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:212: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:213: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:214: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:215: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:216: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:217: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:218: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:219: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:220: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:221: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:222: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:223: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:224: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:236: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:237: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:238: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:239: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:240: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:241: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:242: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:243: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:244: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:245: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:246: warning: End of list marker found without any preceding list items
+C:/Users/Homer/Programmation/CodeBlocks/YAGL/src/headers/all.h:247: warning: End of list marker found without any preceding list items

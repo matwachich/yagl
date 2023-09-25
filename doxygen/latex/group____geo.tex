@@ -1,0 +1,310 @@
+\hypertarget{group____geo}{\section{Geometry}
+\label{group____geo}\index{Geometry@{Geometry}}
+}
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+float Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____geo_ga5e42d9cc9ddfa6dd30dffd8a7aa4461d}{Geo\-\_\-\-Pto\-P\-\_\-\-Dist} (int x1, int y1, int x2, int y2)
+\begin{DoxyCompactList}\small\item\em Return the distance between 2 points. \end{DoxyCompactList}\item 
+float Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____geo_gabfd075a6576d0464982e6844a93f0bc7}{Geo\-\_\-\-Pto\-P\-\_\-\-Angle} (int x1, int y1, int x2, int y2)
+\begin{DoxyCompactList}\small\item\em Return the angle between 2 points. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____geo_gab5d2e68c9331685a4329d52c7f569ba4}{Geo\-\_\-\-Pto\-P\-\_\-\-Vect} (int x1, int y1, int x2, int y2, float len, float $\ast$v\-\_\-x, float $\ast$v\-\_\-y)
+\begin{DoxyCompactList}\small\item\em Return the vector between (x1,y1) to (x2,y2) \end{DoxyCompactList}\item 
+float Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____geo_ga2e179e8f64e4c26625dcc748adf51661}{Geo\-\_\-\-Sprto\-P\-\_\-\-Dist} (Sprite $\ast$spr, int x, int y)
+\begin{DoxyCompactList}\small\item\em Return the distance between a Sprite and a point (x,y) \end{DoxyCompactList}\item 
+float Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____geo_ga8feb4be971825161ced77eff747981f8}{Geo\-\_\-\-Sprto\-P\-\_\-\-Angle} (Sprite $\ast$spr, int x, int y)
+\item 
+float Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____geo_ga114cf0ff40272a00e93da00c99451fc9}{Geo\-\_\-\-Sprto\-P\-\_\-\-Angle\-Diff} (Sprite $\ast$spr, int x, int y)
+\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____geo_gad89135bcd9d0acdf05fcdbd980244066}{Geo\-\_\-\-Sprto\-P\-\_\-\-Vect} (Sprite $\ast$spr, int x, int y, float len, float $\ast$v\-\_\-x, float $\ast$v\-\_\-y)
+\item 
+float Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____geo_ga6b13772298406021b4ec97eb98c99af7}{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Dist} (Sprite $\ast$spr1, Sprite $\ast$spr2)
+\item 
+float Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____geo_ga6775b4377f7dddfeac92034f51575485}{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Angle} (Sprite $\ast$spr1, Sprite $\ast$spr2)
+\item 
+float Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____geo_ga86c509e5aa7390792eaf15e3a8c42592}{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Angle\-Diff} (Sprite $\ast$spr1, Sprite $\ast$spr2)
+\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____geo_gaa249b91c5d42e6b724a68aca1f320d2c}{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Vect} (Sprite $\ast$spr1, Sprite $\ast$spr2, float len, float $\ast$v\-\_\-x, float $\ast$v\-\_\-y)
+\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____geo_ga09af21e7a19414f6b3e48c1df39b2ebe}{Geo\-\_\-\-Polar\-To\-Cartesian} (float angle, float len, float $\ast$x, float $\ast$y)
+\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____geo_ga5cba6964ec1787c9f04e6416945c9aa2}{Geo\-\_\-\-Cartesian\-To\-Polar} (float x, float y, float $\ast$angle, float $\ast$len)
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+
+
+\subsection{Function Documentation}
+\hypertarget{group____geo_ga5e42d9cc9ddfa6dd30dffd8a7aa4461d}{\index{Geometry@{Geometry}!Geo\-\_\-\-Pto\-P\-\_\-\-Dist@{Geo\-\_\-\-Pto\-P\-\_\-\-Dist}}
+\index{Geo\-\_\-\-Pto\-P\-\_\-\-Dist@{Geo\-\_\-\-Pto\-P\-\_\-\-Dist}!Geometry@{Geometry}}
+\subsubsection[{Geo\-\_\-\-Pto\-P\-\_\-\-Dist}]{\setlength{\rightskip}{0pt plus 5cm}float Y\-A\-G\-L\-\_\-\-A\-P\-I Geo\-\_\-\-Pto\-P\-\_\-\-Dist (
+\begin{DoxyParamCaption}
+\item[{int}]{x1, }
+\item[{int}]{y1, }
+\item[{int}]{x2, }
+\item[{int}]{y2}
+\end{DoxyParamCaption}
+)}}\label{group____geo_ga5e42d9cc9ddfa6dd30dffd8a7aa4461d}
+
+
+Return the distance between 2 points. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em x1\mbox{[}in\mbox{]}} & X-\/pos 1 \\
+\hline
+{\em y1\mbox{[}in\mbox{]}} & Y-\/pos 1 \\
+\hline
+{\em x2\mbox{[}in\mbox{]}} & X-\/pos 2 \\
+\hline
+{\em y2\mbox{[}in\mbox{]}} & Y-\/pos 2\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Distance between the points (x1, y1) and (x2, y2) 
+\end{DoxyReturn}
+\hypertarget{group____geo_gabfd075a6576d0464982e6844a93f0bc7}{\index{Geometry@{Geometry}!Geo\-\_\-\-Pto\-P\-\_\-\-Angle@{Geo\-\_\-\-Pto\-P\-\_\-\-Angle}}
+\index{Geo\-\_\-\-Pto\-P\-\_\-\-Angle@{Geo\-\_\-\-Pto\-P\-\_\-\-Angle}!Geometry@{Geometry}}
+\subsubsection[{Geo\-\_\-\-Pto\-P\-\_\-\-Angle}]{\setlength{\rightskip}{0pt plus 5cm}float Y\-A\-G\-L\-\_\-\-A\-P\-I Geo\-\_\-\-Pto\-P\-\_\-\-Angle (
+\begin{DoxyParamCaption}
+\item[{int}]{x1, }
+\item[{int}]{y1, }
+\item[{int}]{x2, }
+\item[{int}]{y2}
+\end{DoxyParamCaption}
+)}}\label{group____geo_gabfd075a6576d0464982e6844a93f0bc7}
+
+
+Return the angle between 2 points. 
+
+It's the angle of the vector from (x1,y1) to (x2,y2)
+
+
+\begin{DoxyParams}{Parameters}
+{\em x1\mbox{[}in\mbox{]}} & X-\/pos 1 \\
+\hline
+{\em y1\mbox{[}in\mbox{]}} & Y-\/pos 1 \\
+\hline
+{\em x2\mbox{[}in\mbox{]}} & X-\/pos 2 \\
+\hline
+{\em y2\mbox{[}in\mbox{]}} & Y-\/pos 2\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Angle in degrees 
+\end{DoxyReturn}
+\hypertarget{group____geo_gab5d2e68c9331685a4329d52c7f569ba4}{\index{Geometry@{Geometry}!Geo\-\_\-\-Pto\-P\-\_\-\-Vect@{Geo\-\_\-\-Pto\-P\-\_\-\-Vect}}
+\index{Geo\-\_\-\-Pto\-P\-\_\-\-Vect@{Geo\-\_\-\-Pto\-P\-\_\-\-Vect}!Geometry@{Geometry}}
+\subsubsection[{Geo\-\_\-\-Pto\-P\-\_\-\-Vect}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Geo\-\_\-\-Pto\-P\-\_\-\-Vect (
+\begin{DoxyParamCaption}
+\item[{int}]{x1, }
+\item[{int}]{y1, }
+\item[{int}]{x2, }
+\item[{int}]{y2, }
+\item[{float}]{len, }
+\item[{float $\ast$}]{v\-\_\-x, }
+\item[{float $\ast$}]{v\-\_\-y}
+\end{DoxyParamCaption}
+)}}\label{group____geo_gab5d2e68c9331685a4329d52c7f569ba4}
+
+
+Return the vector between (x1,y1) to (x2,y2) 
+
+
+\begin{DoxyParams}{Parameters}
+{\em x1\mbox{[}in\mbox{]}} & X-\/pos 1 \\
+\hline
+{\em y1\mbox{[}in\mbox{]}} & Y-\/pos 1 \\
+\hline
+{\em x2\mbox{[}in\mbox{]}} & X-\/pos 2 \\
+\hline
+{\em y2\mbox{[}in\mbox{]}} & Y-\/pos 2 \\
+\hline
+{\em len\mbox{[}in\mbox{]}} & Length of the vector. 0 for the distance between (x1,y1) and (x2,y2) \\
+\hline
+{\em v\-\_\-x\mbox{[}out\mbox{]}} & Vector X \\
+\hline
+{\em v\-\_\-y\mbox{[}out\mbox{]}} & Vector Y \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____geo_ga2e179e8f64e4c26625dcc748adf51661}{\index{Geometry@{Geometry}!Geo\-\_\-\-Sprto\-P\-\_\-\-Dist@{Geo\-\_\-\-Sprto\-P\-\_\-\-Dist}}
+\index{Geo\-\_\-\-Sprto\-P\-\_\-\-Dist@{Geo\-\_\-\-Sprto\-P\-\_\-\-Dist}!Geometry@{Geometry}}
+\subsubsection[{Geo\-\_\-\-Sprto\-P\-\_\-\-Dist}]{\setlength{\rightskip}{0pt plus 5cm}float Y\-A\-G\-L\-\_\-\-A\-P\-I Geo\-\_\-\-Sprto\-P\-\_\-\-Dist (
+\begin{DoxyParamCaption}
+\item[{Sprite $\ast$}]{spr, }
+\item[{int}]{x, }
+\item[{int}]{y}
+\end{DoxyParamCaption}
+)}}\label{group____geo_ga2e179e8f64e4c26625dcc748adf51661}
+
+
+Return the distance between a Sprite and a point (x,y) 
+
+
+\begin{DoxyParams}{Parameters}
+{\em spr\mbox{[}in\mbox{]}} & Sprite (see Sprite\-\_\-\-Create()) \\
+\hline
+{\em x\mbox{[}in\mbox{]}} & X-\/pos \\
+\hline
+{\em y\mbox{[}in\mbox{]}} & Y-\/pos\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Distance 
+\end{DoxyReturn}
+\hypertarget{group____geo_ga8feb4be971825161ced77eff747981f8}{\index{Geometry@{Geometry}!Geo\-\_\-\-Sprto\-P\-\_\-\-Angle@{Geo\-\_\-\-Sprto\-P\-\_\-\-Angle}}
+\index{Geo\-\_\-\-Sprto\-P\-\_\-\-Angle@{Geo\-\_\-\-Sprto\-P\-\_\-\-Angle}!Geometry@{Geometry}}
+\subsubsection[{Geo\-\_\-\-Sprto\-P\-\_\-\-Angle}]{\setlength{\rightskip}{0pt plus 5cm}float Y\-A\-G\-L\-\_\-\-A\-P\-I Geo\-\_\-\-Sprto\-P\-\_\-\-Angle (
+\begin{DoxyParamCaption}
+\item[{Sprite $\ast$}]{spr, }
+\item[{int}]{x, }
+\item[{int}]{y}
+\end{DoxyParamCaption}
+)}}\label{group____geo_ga8feb4be971825161ced77eff747981f8}
+
+\begin{DoxyParams}{Parameters}
+{\em \textbackslash{}param} & \\
+\hline
+{\em \textbackslash{}return} & \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____geo_ga114cf0ff40272a00e93da00c99451fc9}{\index{Geometry@{Geometry}!Geo\-\_\-\-Sprto\-P\-\_\-\-Angle\-Diff@{Geo\-\_\-\-Sprto\-P\-\_\-\-Angle\-Diff}}
+\index{Geo\-\_\-\-Sprto\-P\-\_\-\-Angle\-Diff@{Geo\-\_\-\-Sprto\-P\-\_\-\-Angle\-Diff}!Geometry@{Geometry}}
+\subsubsection[{Geo\-\_\-\-Sprto\-P\-\_\-\-Angle\-Diff}]{\setlength{\rightskip}{0pt plus 5cm}float Y\-A\-G\-L\-\_\-\-A\-P\-I Geo\-\_\-\-Sprto\-P\-\_\-\-Angle\-Diff (
+\begin{DoxyParamCaption}
+\item[{Sprite $\ast$}]{spr, }
+\item[{int}]{x, }
+\item[{int}]{y}
+\end{DoxyParamCaption}
+)}}\label{group____geo_ga114cf0ff40272a00e93da00c99451fc9}
+
+\begin{DoxyParams}{Parameters}
+{\em \textbackslash{}param} & \\
+\hline
+{\em \textbackslash{}return} & \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____geo_gad89135bcd9d0acdf05fcdbd980244066}{\index{Geometry@{Geometry}!Geo\-\_\-\-Sprto\-P\-\_\-\-Vect@{Geo\-\_\-\-Sprto\-P\-\_\-\-Vect}}
+\index{Geo\-\_\-\-Sprto\-P\-\_\-\-Vect@{Geo\-\_\-\-Sprto\-P\-\_\-\-Vect}!Geometry@{Geometry}}
+\subsubsection[{Geo\-\_\-\-Sprto\-P\-\_\-\-Vect}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Geo\-\_\-\-Sprto\-P\-\_\-\-Vect (
+\begin{DoxyParamCaption}
+\item[{Sprite $\ast$}]{spr, }
+\item[{int}]{x, }
+\item[{int}]{y, }
+\item[{float}]{len, }
+\item[{float $\ast$}]{v\-\_\-x, }
+\item[{float $\ast$}]{v\-\_\-y}
+\end{DoxyParamCaption}
+)}}\label{group____geo_gad89135bcd9d0acdf05fcdbd980244066}
+
+\begin{DoxyParams}{Parameters}
+{\em \textbackslash{}param} & \\
+\hline
+{\em \textbackslash{}param} & \\
+\hline
+{\em } & \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____geo_ga6b13772298406021b4ec97eb98c99af7}{\index{Geometry@{Geometry}!Geo\-\_\-\-Sprto\-Spr\-\_\-\-Dist@{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Dist}}
+\index{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Dist@{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Dist}!Geometry@{Geometry}}
+\subsubsection[{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Dist}]{\setlength{\rightskip}{0pt plus 5cm}float Y\-A\-G\-L\-\_\-\-A\-P\-I Geo\-\_\-\-Sprto\-Spr\-\_\-\-Dist (
+\begin{DoxyParamCaption}
+\item[{Sprite $\ast$}]{spr1, }
+\item[{Sprite $\ast$}]{spr2}
+\end{DoxyParamCaption}
+)}}\label{group____geo_ga6b13772298406021b4ec97eb98c99af7}
+
+\begin{DoxyParams}{Parameters}
+{\em \textbackslash{}param} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\hypertarget{group____geo_ga6775b4377f7dddfeac92034f51575485}{\index{Geometry@{Geometry}!Geo\-\_\-\-Sprto\-Spr\-\_\-\-Angle@{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Angle}}
+\index{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Angle@{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Angle}!Geometry@{Geometry}}
+\subsubsection[{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Angle}]{\setlength{\rightskip}{0pt plus 5cm}float Y\-A\-G\-L\-\_\-\-A\-P\-I Geo\-\_\-\-Sprto\-Spr\-\_\-\-Angle (
+\begin{DoxyParamCaption}
+\item[{Sprite $\ast$}]{spr1, }
+\item[{Sprite $\ast$}]{spr2}
+\end{DoxyParamCaption}
+)}}\label{group____geo_ga6775b4377f7dddfeac92034f51575485}
+
+\begin{DoxyParams}{Parameters}
+{\em \textbackslash{}param} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\hypertarget{group____geo_ga86c509e5aa7390792eaf15e3a8c42592}{\index{Geometry@{Geometry}!Geo\-\_\-\-Sprto\-Spr\-\_\-\-Angle\-Diff@{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Angle\-Diff}}
+\index{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Angle\-Diff@{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Angle\-Diff}!Geometry@{Geometry}}
+\subsubsection[{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Angle\-Diff}]{\setlength{\rightskip}{0pt plus 5cm}float Y\-A\-G\-L\-\_\-\-A\-P\-I Geo\-\_\-\-Sprto\-Spr\-\_\-\-Angle\-Diff (
+\begin{DoxyParamCaption}
+\item[{Sprite $\ast$}]{spr1, }
+\item[{Sprite $\ast$}]{spr2}
+\end{DoxyParamCaption}
+)}}\label{group____geo_ga86c509e5aa7390792eaf15e3a8c42592}
+
+\begin{DoxyParams}{Parameters}
+{\em \textbackslash{}param} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\hypertarget{group____geo_gaa249b91c5d42e6b724a68aca1f320d2c}{\index{Geometry@{Geometry}!Geo\-\_\-\-Sprto\-Spr\-\_\-\-Vect@{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Vect}}
+\index{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Vect@{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Vect}!Geometry@{Geometry}}
+\subsubsection[{Geo\-\_\-\-Sprto\-Spr\-\_\-\-Vect}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Geo\-\_\-\-Sprto\-Spr\-\_\-\-Vect (
+\begin{DoxyParamCaption}
+\item[{Sprite $\ast$}]{spr1, }
+\item[{Sprite $\ast$}]{spr2, }
+\item[{float}]{len, }
+\item[{float $\ast$}]{v\-\_\-x, }
+\item[{float $\ast$}]{v\-\_\-y}
+\end{DoxyParamCaption}
+)}}\label{group____geo_gaa249b91c5d42e6b724a68aca1f320d2c}
+
+\begin{DoxyParams}{Parameters}
+{\em \textbackslash{}param} & \\
+\hline
+{\em \textbackslash{}param} & \\
+\hline
+{\em } & \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____geo_ga09af21e7a19414f6b3e48c1df39b2ebe}{\index{Geometry@{Geometry}!Geo\-\_\-\-Polar\-To\-Cartesian@{Geo\-\_\-\-Polar\-To\-Cartesian}}
+\index{Geo\-\_\-\-Polar\-To\-Cartesian@{Geo\-\_\-\-Polar\-To\-Cartesian}!Geometry@{Geometry}}
+\subsubsection[{Geo\-\_\-\-Polar\-To\-Cartesian}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Geo\-\_\-\-Polar\-To\-Cartesian (
+\begin{DoxyParamCaption}
+\item[{float}]{angle, }
+\item[{float}]{len, }
+\item[{float $\ast$}]{x, }
+\item[{float $\ast$}]{y}
+\end{DoxyParamCaption}
+)}}\label{group____geo_ga09af21e7a19414f6b3e48c1df39b2ebe}
+
+\begin{DoxyParams}{Parameters}
+{\em \textbackslash{}param} & \\
+\hline
+{\em \textbackslash{}param} & \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____geo_ga5cba6964ec1787c9f04e6416945c9aa2}{\index{Geometry@{Geometry}!Geo\-\_\-\-Cartesian\-To\-Polar@{Geo\-\_\-\-Cartesian\-To\-Polar}}
+\index{Geo\-\_\-\-Cartesian\-To\-Polar@{Geo\-\_\-\-Cartesian\-To\-Polar}!Geometry@{Geometry}}
+\subsubsection[{Geo\-\_\-\-Cartesian\-To\-Polar}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Geo\-\_\-\-Cartesian\-To\-Polar (
+\begin{DoxyParamCaption}
+\item[{float}]{x, }
+\item[{float}]{y, }
+\item[{float $\ast$}]{angle, }
+\item[{float $\ast$}]{len}
+\end{DoxyParamCaption}
+)}}\label{group____geo_ga5cba6964ec1787c9f04e6416945c9aa2}
+
+\begin{DoxyParams}{Parameters}
+{\em \textbackslash{}param} & \\
+\hline
+{\em \textbackslash{}param} & \\
+\hline
+\end{DoxyParams}

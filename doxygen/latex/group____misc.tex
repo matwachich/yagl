@@ -1,0 +1,173 @@
+\hypertarget{group____misc}{\section{Misc}
+\label{group____misc}\index{Misc@{Misc}}
+}
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____misc_gad05b0b17f0641c30f5a495655ca2742d}{Misc\-\_\-\-Sleep} (const double time)
+\begin{DoxyCompactList}\small\item\em Sleep. \end{DoxyCompactList}\item 
+double Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____misc_gaf65c406a42bfec38c16ccb36e367d890}{Misc\-\_\-\-Timer\-Init} ()
+\begin{DoxyCompactList}\small\item\em Return a timestamp to use with \hyperlink{group____misc_ga1b64de1f11277cc11bfdccea62fae741}{Misc\-\_\-\-Timer\-Diff()} \end{DoxyCompactList}\item 
+double Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____misc_ga1b64de1f11277cc11bfdccea62fae741}{Misc\-\_\-\-Timer\-Diff} (const double timestamp)
+\begin{DoxyCompactList}\small\item\em Return the elapsed time since the provided timestamp. \end{DoxyCompactList}\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____misc_gac68bd1cac880c6f4f1e16cc3cb1e4936}{Misc\-\_\-\-Random\-I} (const int min, const int max)
+\begin{DoxyCompactList}\small\item\em Return a random integer. \end{DoxyCompactList}\item 
+double Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____misc_ga560bbd5a414f1b77612dfb09e7e99187}{Misc\-\_\-\-Random\-F} (const double min, const double max)
+\begin{DoxyCompactList}\small\item\em Return a random floating point number. \end{DoxyCompactList}\item 
+\hyperlink{group____consts__color_gafe1825ea3ea95c415448a35dc1f1418d}{Y\-A\-G\-L\-\_\-\-Color} Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____misc_gaa82c3e84accd1709e91880c93c1c8a21}{Misc\-\_\-\-Color} (unsigned char red, unsigned char green, unsigned char blue, unsigned char alpha)
+\begin{DoxyCompactList}\small\item\em Wrapper to \hyperlink{group____consts__color_gafb7bac2b0520a9c7909a92f19101ee2c}{Y\-A\-G\-L\-\_\-\-R\-G\-B\-A}. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____misc_ga82fa15216980c123f1f0fba9252a2fb5}{Misc\-\_\-\-Color\-Components} (\hyperlink{group____consts__color_gafe1825ea3ea95c415448a35dc1f1418d}{Y\-A\-G\-L\-\_\-\-Color} color, unsigned char $\ast$red, unsigned char $\ast$green, unsigned char $\ast$blue, unsigned char $\ast$alpha)
+\begin{DoxyCompactList}\small\item\em Wrapper to \hyperlink{group____consts__color_ga9735b680ee349476ed233663ee56ae7e}{Y\-A\-G\-L\-\_\-\-R\-G\-B\-A\-\_\-\-R}, \hyperlink{group____consts__color_ga09c5fb4d22228f92c3fa98f5b550730f}{Y\-A\-G\-L\-\_\-\-R\-G\-B\-A\-\_\-\-G}, \hyperlink{group____consts__color_ga7b84923243e2a15f03f63e25382d3b57}{Y\-A\-G\-L\-\_\-\-R\-G\-B\-A\-\_\-\-B} and \hyperlink{group____consts__color_ga064f8440db8849d5edff5a5249683850}{Y\-A\-G\-L\-\_\-\-R\-G\-B\-A\-\_\-\-A}. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+
+
+\subsection{Function Documentation}
+\hypertarget{group____misc_gad05b0b17f0641c30f5a495655ca2742d}{\index{Misc@{Misc}!Misc\-\_\-\-Sleep@{Misc\-\_\-\-Sleep}}
+\index{Misc\-\_\-\-Sleep@{Misc\-\_\-\-Sleep}!Misc@{Misc}}
+\subsubsection[{Misc\-\_\-\-Sleep}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Misc\-\_\-\-Sleep (
+\begin{DoxyParamCaption}
+\item[{const double}]{time}
+\end{DoxyParamCaption}
+)}}\label{group____misc_gad05b0b17f0641c30f5a495655ca2742d}
+
+
+Sleep. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em time\mbox{[}in\mbox{]}} & Seconds \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____misc_gaf65c406a42bfec38c16ccb36e367d890}{\index{Misc@{Misc}!Misc\-\_\-\-Timer\-Init@{Misc\-\_\-\-Timer\-Init}}
+\index{Misc\-\_\-\-Timer\-Init@{Misc\-\_\-\-Timer\-Init}!Misc@{Misc}}
+\subsubsection[{Misc\-\_\-\-Timer\-Init}]{\setlength{\rightskip}{0pt plus 5cm}double Y\-A\-G\-L\-\_\-\-A\-P\-I Misc\-\_\-\-Timer\-Init (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{group____misc_gaf65c406a42bfec38c16ccb36e367d890}
+
+
+Return a timestamp to use with \hyperlink{group____misc_ga1b64de1f11277cc11bfdccea62fae741}{Misc\-\_\-\-Timer\-Diff()} 
+
+\begin{DoxyReturn}{Returns}
+Timestamp 
+\end{DoxyReturn}
+\hypertarget{group____misc_ga1b64de1f11277cc11bfdccea62fae741}{\index{Misc@{Misc}!Misc\-\_\-\-Timer\-Diff@{Misc\-\_\-\-Timer\-Diff}}
+\index{Misc\-\_\-\-Timer\-Diff@{Misc\-\_\-\-Timer\-Diff}!Misc@{Misc}}
+\subsubsection[{Misc\-\_\-\-Timer\-Diff}]{\setlength{\rightskip}{0pt plus 5cm}double Y\-A\-G\-L\-\_\-\-A\-P\-I Misc\-\_\-\-Timer\-Diff (
+\begin{DoxyParamCaption}
+\item[{const double}]{timestamp}
+\end{DoxyParamCaption}
+)}}\label{group____misc_ga1b64de1f11277cc11bfdccea62fae741}
+
+
+Return the elapsed time since the provided timestamp. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em timestamp\mbox{[}in\mbox{]}} & Timestamp (see \hyperlink{group____misc_gaf65c406a42bfec38c16ccb36e367d890}{Misc\-\_\-\-Timer\-Init()})\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Seconds elapsed since the timestamp 
+\end{DoxyReturn}
+\hypertarget{group____misc_gac68bd1cac880c6f4f1e16cc3cb1e4936}{\index{Misc@{Misc}!Misc\-\_\-\-Random\-I@{Misc\-\_\-\-Random\-I}}
+\index{Misc\-\_\-\-Random\-I@{Misc\-\_\-\-Random\-I}!Misc@{Misc}}
+\subsubsection[{Misc\-\_\-\-Random\-I}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I Misc\-\_\-\-Random\-I (
+\begin{DoxyParamCaption}
+\item[{const int}]{min, }
+\item[{const int}]{max}
+\end{DoxyParamCaption}
+)}}\label{group____misc_gac68bd1cac880c6f4f1e16cc3cb1e4936}
+
+
+Return a random integer. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em min\mbox{[}in\mbox{]}} & Lower bound (inclusive) \\
+\hline
+{\em min\mbox{[}in\mbox{]}} & Upper bound (not inclusive)\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Random integer in the range \mbox{[}min,max\mbox{[} 
+\end{DoxyReturn}
+\hypertarget{group____misc_ga560bbd5a414f1b77612dfb09e7e99187}{\index{Misc@{Misc}!Misc\-\_\-\-Random\-F@{Misc\-\_\-\-Random\-F}}
+\index{Misc\-\_\-\-Random\-F@{Misc\-\_\-\-Random\-F}!Misc@{Misc}}
+\subsubsection[{Misc\-\_\-\-Random\-F}]{\setlength{\rightskip}{0pt plus 5cm}double Y\-A\-G\-L\-\_\-\-A\-P\-I Misc\-\_\-\-Random\-F (
+\begin{DoxyParamCaption}
+\item[{const double}]{min, }
+\item[{const double}]{max}
+\end{DoxyParamCaption}
+)}}\label{group____misc_ga560bbd5a414f1b77612dfb09e7e99187}
+
+
+Return a random floating point number. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em min\mbox{[}in\mbox{]}} & Lower bound (inclusive) \\
+\hline
+{\em min\mbox{[}in\mbox{]}} & Upper bound (not inclusive)\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Random integer in the range \mbox{[}min,max\mbox{[} 
+\end{DoxyReturn}
+\hypertarget{group____misc_gaa82c3e84accd1709e91880c93c1c8a21}{\index{Misc@{Misc}!Misc\-\_\-\-Color@{Misc\-\_\-\-Color}}
+\index{Misc\-\_\-\-Color@{Misc\-\_\-\-Color}!Misc@{Misc}}
+\subsubsection[{Misc\-\_\-\-Color}]{\setlength{\rightskip}{0pt plus 5cm}{\bf Y\-A\-G\-L\-\_\-\-Color} Y\-A\-G\-L\-\_\-\-A\-P\-I Misc\-\_\-\-Color (
+\begin{DoxyParamCaption}
+\item[{unsigned char}]{red, }
+\item[{unsigned char}]{green, }
+\item[{unsigned char}]{blue, }
+\item[{unsigned char}]{alpha}
+\end{DoxyParamCaption}
+)}}\label{group____misc_gaa82c3e84accd1709e91880c93c1c8a21}
+
+
+Wrapper to \hyperlink{group____consts__color_gafb7bac2b0520a9c7909a92f19101ee2c}{Y\-A\-G\-L\-\_\-\-R\-G\-B\-A}. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em red\mbox{[}in\mbox{]}} & Red \\
+\hline
+{\em green\mbox{[}in\mbox{]}} & Green \\
+\hline
+{\em blue\mbox{[}in\mbox{]}} & Blue \\
+\hline
+{\em alpha\mbox{[}in\mbox{]}} & Alpha\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+\hyperlink{group____consts__color_gafe1825ea3ea95c415448a35dc1f1418d}{Y\-A\-G\-L\-\_\-\-Color} 
+\end{DoxyReturn}
+\hypertarget{group____misc_ga82fa15216980c123f1f0fba9252a2fb5}{\index{Misc@{Misc}!Misc\-\_\-\-Color\-Components@{Misc\-\_\-\-Color\-Components}}
+\index{Misc\-\_\-\-Color\-Components@{Misc\-\_\-\-Color\-Components}!Misc@{Misc}}
+\subsubsection[{Misc\-\_\-\-Color\-Components}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Misc\-\_\-\-Color\-Components (
+\begin{DoxyParamCaption}
+\item[{{\bf Y\-A\-G\-L\-\_\-\-Color}}]{color, }
+\item[{unsigned char $\ast$}]{red, }
+\item[{unsigned char $\ast$}]{green, }
+\item[{unsigned char $\ast$}]{blue, }
+\item[{unsigned char $\ast$}]{alpha}
+\end{DoxyParamCaption}
+)}}\label{group____misc_ga82fa15216980c123f1f0fba9252a2fb5}
+
+
+Wrapper to \hyperlink{group____consts__color_ga9735b680ee349476ed233663ee56ae7e}{Y\-A\-G\-L\-\_\-\-R\-G\-B\-A\-\_\-\-R}, \hyperlink{group____consts__color_ga09c5fb4d22228f92c3fa98f5b550730f}{Y\-A\-G\-L\-\_\-\-R\-G\-B\-A\-\_\-\-G}, \hyperlink{group____consts__color_ga7b84923243e2a15f03f63e25382d3b57}{Y\-A\-G\-L\-\_\-\-R\-G\-B\-A\-\_\-\-B} and \hyperlink{group____consts__color_ga064f8440db8849d5edff5a5249683850}{Y\-A\-G\-L\-\_\-\-R\-G\-B\-A\-\_\-\-A}. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em red\mbox{[}out\mbox{]}} & \\
+\hline
+{\em green\mbox{[}out\mbox{]}} & \\
+\hline
+{\em blue\mbox{[}out\mbox{]}} & \\
+\hline
+{\em alpha\mbox{[}out\mbox{]}} & \\
+\hline
+\end{DoxyParams}

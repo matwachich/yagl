@@ -1,0 +1,233 @@
+\hypertarget{group____system}{\section{System basics}
+\label{group____system}\index{System basics@{System basics}}
+}
+
+
+Basic system operations.  
+
+
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____system_gaeec34f715f6038b0f675ff7c3105a152}{System\-\_\-\-Init} (\hyperlink{group____enums_gaa768cfbfa3bdcb70751d9e3c37b00350}{e\-D\-E\-B\-U\-G} debug\-\_\-mode)
+\begin{DoxyCompactList}\small\item\em Initiate the engine. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____system_ga7f28a68bb6c2af19c7004acc26e0cbdb}{System\-\_\-\-Debug\-Out} (const char $\ast$data, int err\-\_\-lvl)
+\begin{DoxyCompactList}\small\item\em Output data to the debug output. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____system_gacf99e83f1f621c84c147e7f99f707cf4}{System\-\_\-\-Set\-Debug\-Callback} (\hyperlink{group____callbacks_ga7ae123bcbd5a4a7fb48b73bb9ebd04bc}{Y\-A\-G\-L\-Debug\-Proc} debug\-\_\-proc)
+\begin{DoxyCompactList}\small\item\em Set a function to be called when debug info is outputed. \end{DoxyCompactList}\item 
+\hypertarget{group____system_ga5916f5935a0317035c50844537727312}{void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____system_ga5916f5935a0317035c50844537727312}{System\-\_\-\-Terminate} ()}\label{group____system_ga5916f5935a0317035c50844537727312}
+
+\begin{DoxyCompactList}\small\item\em Free all ressources and terminate the engine. \end{DoxyCompactList}\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____system_gab562fa65099346905f3a08cc5cfc0b2c}{System\-\_\-\-Get\-Video\-Modes\-Count} ()
+\begin{DoxyCompactList}\small\item\em Return the number of supported video modes. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____system_ga95209d1d1ef48488820d7899decc7bea}{System\-\_\-\-Get\-Video\-Mode} (int mode, int $\ast$width, int $\ast$height, int $\ast$red\-\_\-bits, int $\ast$green\-\_\-bits, int $\ast$blue\-\_\-bits)
+\begin{DoxyCompactList}\small\item\em Get a supported video mode. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____system_gae78d8798e0f13a5835087fb2b3c6557e}{System\-\_\-\-Get\-Desktop\-Mode} (int $\ast$width, int $\ast$height, int $\ast$red\-\_\-bits, int $\ast$green\-\_\-bits, int $\ast$blue\-\_\-bits)
+\begin{DoxyCompactList}\small\item\em Get current desktop video mode. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____system_ga6e2b2e7744e03223cbb05b87411c6058}{System\-\_\-\-Get\-Stats} (int $\ast$num\-\_\-textures, int $\ast$num\-\_\-texture\-\_\-maps, int $\ast$num\-\_\-quads, int $\ast$num\-\_\-sprites, int $\ast$num\-\_\-sprite\-\_\-sets, int $\ast$num\-\_\-animations, int $\ast$num\-\_\-particle\-\_\-emitters, int $\ast$num\-\_\-shaders, int $\ast$num\-\_\-bmp\-\_\-fonts, int $\ast$num\-\_\-bmp\-\_\-texts)
+\begin{DoxyCompactList}\small\item\em Get some stats about the runing engine. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____system_gaa8eeb3a22ed2ad430233fdcc88d7bcc9}{System\-\_\-\-Get\-Version} (\hyperlink{group____enums_gaf533ba78f210a2fe94fc9fbc85a2b17f}{e\-V\-E\-R\-S\-I\-O\-N} flag, int $\ast$major, int $\ast$minor, int $\ast$revision)
+\begin{DoxyCompactList}\small\item\em Get various version numbers. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Basic system operations. 
+
+\subsection{Function Documentation}
+\hypertarget{group____system_gaeec34f715f6038b0f675ff7c3105a152}{\index{System basics@{System basics}!System\-\_\-\-Init@{System\-\_\-\-Init}}
+\index{System\-\_\-\-Init@{System\-\_\-\-Init}!System basics@{System basics}}
+\subsubsection[{System\-\_\-\-Init}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I System\-\_\-\-Init (
+\begin{DoxyParamCaption}
+\item[{{\bf e\-D\-E\-B\-U\-G}}]{debug\-\_\-mode}
+\end{DoxyParamCaption}
+)}}\label{group____system_gaeec34f715f6038b0f675ff7c3105a152}
+
+
+Initiate the engine. 
+
+Must be called before any other Y\-A\-G\-L function.
+
+
+\begin{DoxyParams}{Parameters}
+{\em debug\-\_\-mode\mbox{[}in\mbox{]}} & See \hyperlink{group____enums_gaa768cfbfa3bdcb70751d9e3c37b00350}{e\-D\-E\-B\-U\-G}\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+1 on succes, 0 otherwise 
+\end{DoxyReturn}
+\hypertarget{group____system_ga7f28a68bb6c2af19c7004acc26e0cbdb}{\index{System basics@{System basics}!System\-\_\-\-Debug\-Out@{System\-\_\-\-Debug\-Out}}
+\index{System\-\_\-\-Debug\-Out@{System\-\_\-\-Debug\-Out}!System basics@{System basics}}
+\subsubsection[{System\-\_\-\-Debug\-Out}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I System\-\_\-\-Debug\-Out (
+\begin{DoxyParamCaption}
+\item[{const char $\ast$}]{data, }
+\item[{int}]{err\-\_\-lvl}
+\end{DoxyParamCaption}
+)}}\label{group____system_ga7f28a68bb6c2af19c7004acc26e0cbdb}
+
+
+Output data to the debug output. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em data\mbox{[}in\mbox{]}} & N\-U\-L\-L-\/terminated string to output \\
+\hline
+{\em err\-\_\-lvl\mbox{[}in\mbox{]}} & 0 No error, 1 Error, 2 Fatal error (program will exit) \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____system_gacf99e83f1f621c84c147e7f99f707cf4}{\index{System basics@{System basics}!System\-\_\-\-Set\-Debug\-Callback@{System\-\_\-\-Set\-Debug\-Callback}}
+\index{System\-\_\-\-Set\-Debug\-Callback@{System\-\_\-\-Set\-Debug\-Callback}!System basics@{System basics}}
+\subsubsection[{System\-\_\-\-Set\-Debug\-Callback}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I System\-\_\-\-Set\-Debug\-Callback (
+\begin{DoxyParamCaption}
+\item[{{\bf Y\-A\-G\-L\-Debug\-Proc}}]{debug\-\_\-proc}
+\end{DoxyParamCaption}
+)}}\label{group____system_gacf99e83f1f621c84c147e7f99f707cf4}
+
+
+Set a function to be called when debug info is outputed. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em debug\-\_\-proc\mbox{[}in\mbox{]}} & See Y\-A\-G\-L\-Debug\-Proc \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____system_gab562fa65099346905f3a08cc5cfc0b2c}{\index{System basics@{System basics}!System\-\_\-\-Get\-Video\-Modes\-Count@{System\-\_\-\-Get\-Video\-Modes\-Count}}
+\index{System\-\_\-\-Get\-Video\-Modes\-Count@{System\-\_\-\-Get\-Video\-Modes\-Count}!System basics@{System basics}}
+\subsubsection[{System\-\_\-\-Get\-Video\-Modes\-Count}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I System\-\_\-\-Get\-Video\-Modes\-Count (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{group____system_gab562fa65099346905f3a08cc5cfc0b2c}
+
+
+Return the number of supported video modes. 
+
+\begin{DoxyReturn}{Returns}
+Number of supported video modes 
+\end{DoxyReturn}
+\hypertarget{group____system_ga95209d1d1ef48488820d7899decc7bea}{\index{System basics@{System basics}!System\-\_\-\-Get\-Video\-Mode@{System\-\_\-\-Get\-Video\-Mode}}
+\index{System\-\_\-\-Get\-Video\-Mode@{System\-\_\-\-Get\-Video\-Mode}!System basics@{System basics}}
+\subsubsection[{System\-\_\-\-Get\-Video\-Mode}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I System\-\_\-\-Get\-Video\-Mode (
+\begin{DoxyParamCaption}
+\item[{int}]{mode, }
+\item[{int $\ast$}]{width, }
+\item[{int $\ast$}]{height, }
+\item[{int $\ast$}]{red\-\_\-bits, }
+\item[{int $\ast$}]{green\-\_\-bits, }
+\item[{int $\ast$}]{blue\-\_\-bits}
+\end{DoxyParamCaption}
+)}}\label{group____system_ga95209d1d1ef48488820d7899decc7bea}
+
+
+Get a supported video mode. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em mode\mbox{[}in\mbox{]}} & Video mode to get (\mbox{[}1, \hyperlink{group____system_gab562fa65099346905f3a08cc5cfc0b2c}{System\-\_\-\-Get\-Video\-Modes\-Count()}\mbox{]}) \\
+\hline
+{\em width\mbox{[}out\mbox{]}} & \\
+\hline
+{\em height\mbox{[}out\mbox{]}} & \\
+\hline
+{\em red\-\_\-bits\mbox{[}out\mbox{]}} & \\
+\hline
+{\em green\-\_\-bits\mbox{[}out\mbox{]}} & \\
+\hline
+{\em blue\-\_\-bits\mbox{[}out\mbox{]}} & \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____system_gae78d8798e0f13a5835087fb2b3c6557e}{\index{System basics@{System basics}!System\-\_\-\-Get\-Desktop\-Mode@{System\-\_\-\-Get\-Desktop\-Mode}}
+\index{System\-\_\-\-Get\-Desktop\-Mode@{System\-\_\-\-Get\-Desktop\-Mode}!System basics@{System basics}}
+\subsubsection[{System\-\_\-\-Get\-Desktop\-Mode}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I System\-\_\-\-Get\-Desktop\-Mode (
+\begin{DoxyParamCaption}
+\item[{int $\ast$}]{width, }
+\item[{int $\ast$}]{height, }
+\item[{int $\ast$}]{red\-\_\-bits, }
+\item[{int $\ast$}]{green\-\_\-bits, }
+\item[{int $\ast$}]{blue\-\_\-bits}
+\end{DoxyParamCaption}
+)}}\label{group____system_gae78d8798e0f13a5835087fb2b3c6557e}
+
+
+Get current desktop video mode. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em width\mbox{[}out\mbox{]}} & \\
+\hline
+{\em height\mbox{[}out\mbox{]}} & \\
+\hline
+{\em red\-\_\-bits\mbox{[}out\mbox{]}} & \\
+\hline
+{\em green\-\_\-bits\mbox{[}out\mbox{]}} & \\
+\hline
+{\em blue\-\_\-bits\mbox{[}out\mbox{]}} & \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____system_ga6e2b2e7744e03223cbb05b87411c6058}{\index{System basics@{System basics}!System\-\_\-\-Get\-Stats@{System\-\_\-\-Get\-Stats}}
+\index{System\-\_\-\-Get\-Stats@{System\-\_\-\-Get\-Stats}!System basics@{System basics}}
+\subsubsection[{System\-\_\-\-Get\-Stats}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I System\-\_\-\-Get\-Stats (
+\begin{DoxyParamCaption}
+\item[{int $\ast$}]{num\-\_\-textures, }
+\item[{int $\ast$}]{num\-\_\-texture\-\_\-maps, }
+\item[{int $\ast$}]{num\-\_\-quads, }
+\item[{int $\ast$}]{num\-\_\-sprites, }
+\item[{int $\ast$}]{num\-\_\-sprite\-\_\-sets, }
+\item[{int $\ast$}]{num\-\_\-animations, }
+\item[{int $\ast$}]{num\-\_\-particle\-\_\-emitters, }
+\item[{int $\ast$}]{num\-\_\-shaders, }
+\item[{int $\ast$}]{num\-\_\-bmp\-\_\-fonts, }
+\item[{int $\ast$}]{num\-\_\-bmp\-\_\-texts}
+\end{DoxyParamCaption}
+)}}\label{group____system_ga6e2b2e7744e03223cbb05b87411c6058}
+
+
+Get some stats about the runing engine. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em num\-\_\-textures\mbox{[}out\mbox{]}} & \\
+\hline
+{\em num\-\_\-texture\-\_\-maps\mbox{[}out\mbox{]}} & \\
+\hline
+{\em num\-\_\-quads\mbox{[}out\mbox{]}} & \\
+\hline
+{\em num\-\_\-sprites\mbox{[}out\mbox{]}} & \\
+\hline
+{\em num\-\_\-sprite\-\_\-sets\mbox{[}out\mbox{]}} & \\
+\hline
+{\em num\-\_\-animations\mbox{[}out\mbox{]}} & \\
+\hline
+{\em num\-\_\-particle\-\_\-emitters\mbox{[}out\mbox{]}} & \\
+\hline
+{\em num\-\_\-shaders\mbox{[}out\mbox{]}} & \\
+\hline
+{\em num\-\_\-bmp\-\_\-fonts\mbox{[}out\mbox{]}} & \\
+\hline
+{\em num\-\_\-bmp\-\_\-texts\mbox{[}out\mbox{]}} & \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____system_gaa8eeb3a22ed2ad430233fdcc88d7bcc9}{\index{System basics@{System basics}!System\-\_\-\-Get\-Version@{System\-\_\-\-Get\-Version}}
+\index{System\-\_\-\-Get\-Version@{System\-\_\-\-Get\-Version}!System basics@{System basics}}
+\subsubsection[{System\-\_\-\-Get\-Version}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I System\-\_\-\-Get\-Version (
+\begin{DoxyParamCaption}
+\item[{{\bf e\-V\-E\-R\-S\-I\-O\-N}}]{flag, }
+\item[{int $\ast$}]{major, }
+\item[{int $\ast$}]{minor, }
+\item[{int $\ast$}]{revision}
+\end{DoxyParamCaption}
+)}}\label{group____system_gaa8eeb3a22ed2ad430233fdcc88d7bcc9}
+
+
+Get various version numbers. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em flag\mbox{[}in\mbox{]}} & See \hyperlink{group____enums_gaf533ba78f210a2fe94fc9fbc85a2b17f}{e\-V\-E\-R\-S\-I\-O\-N} \\
+\hline
+{\em major\mbox{[}out\mbox{]}} & Major version number \\
+\hline
+{\em minor\mbox{[}out\mbox{]}} & Minor version number \\
+\hline
+{\em revision\mbox{[}out\mbox{]}} & Revision number \\
+\hline
+\end{DoxyParams}

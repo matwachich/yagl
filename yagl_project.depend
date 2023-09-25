@@ -1,0 +1,433 @@
+# depslib dependency file v1.0
+1357461271 source:c:\users\homer\programmation\codeblocks\yagl\lib\ini.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"ini.h"
+	<stdlib.h>
+
+1362577548 c:\users\homer\programmation\codeblocks\yagl\lib\ini.h
+	<stdio.h>
+
+1337556479 source:c:\users\homer\programmation\codeblocks\yagl\lib\set.c
+	<stdio.h>
+	<stdlib.h>
+	"set.h"
+
+1365463411 c:\users\homer\programmation\codeblocks\yagl\lib\set.h
+	<stdio.h>
+	<stdlib.h>
+
+1367530377 source:c:\users\homer\programmation\codeblocks\yagl\lib\mem.c
+	<stdlib.h>
+	<stdio.h>
+	"all.h"
+	"mem.h"
+
+1368220718 c:\users\homer\programmation\codeblocks\yagl\src\headers\all.h
+	"glfw.h"
+	"ini.h"
+	"mem.h"
+	"soil.h"
+	"internal.h"
+	"system.h"
+	"window.h"
+	"render.h"
+	"view.h"
+	"events.h"
+	"misc.h"
+	"texture.h"
+	"texture_map.h"
+	"quad.h"
+	"sprite.h"
+	"sprite_set.h"
+	"animation.h"
+	"collision.h"
+	"particle.h"
+	"shader.h"
+	"draw.h"
+	"geometry.h"
+	"font.h"
+	"text.h"
+	"accessors_quad.h"
+	"accessors_sprite.h"
+	"accessors_pemitter.h"
+	"accessors_bmptext.h"
+
+1332293502 c:\users\homer\programmation\codeblocks\yagl\lib\glfw.h
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1215450808 c:\users\homer\programmation\codeblocks\yagl\lib\soil.h
+
+1367757708 c:\users\homer\programmation\codeblocks\yagl\src\headers\internal.h
+	<stdio.h>
+	<stdlib.h>
+	<GL\glext.h>
+	"set.h"
+
+1367530356 c:\users\homer\programmation\codeblocks\yagl\lib\mem.h
+
+1365464027 c:\users\homer\programmation\codeblocks\yagl\src\headers\system.h
+
+1365602007 c:\users\homer\programmation\codeblocks\yagl\src\headers\window.h
+
+1365953993 c:\users\homer\programmation\codeblocks\yagl\src\headers\render.h
+
+1365464027 c:\users\homer\programmation\codeblocks\yagl\src\headers\view.h
+
+1365464027 c:\users\homer\programmation\codeblocks\yagl\src\headers\events.h
+
+1367757665 c:\users\homer\programmation\codeblocks\yagl\src\headers\misc.h
+
+1365594125 c:\users\homer\programmation\codeblocks\yagl\src\headers\texture.h
+
+1365464027 c:\users\homer\programmation\codeblocks\yagl\src\headers\texture_map.h
+
+1365464664 c:\users\homer\programmation\codeblocks\yagl\src\headers\quad.h
+
+1365954768 c:\users\homer\programmation\codeblocks\yagl\src\headers\sprite.h
+
+1367247002 c:\users\homer\programmation\codeblocks\yagl\src\headers\sprite_set.h
+
+1365954921 c:\users\homer\programmation\codeblocks\yagl\src\headers\animation.h
+
+1365464027 c:\users\homer\programmation\codeblocks\yagl\src\headers\collision.h
+
+1368218061 c:\users\homer\programmation\codeblocks\yagl\src\headers\particle.h
+
+1367152248 c:\users\homer\programmation\codeblocks\yagl\src\headers\shader.h
+
+1365464027 c:\users\homer\programmation\codeblocks\yagl\src\headers\draw.h
+
+1365464027 c:\users\homer\programmation\codeblocks\yagl\src\headers\geometry.h
+
+1365464638 c:\users\homer\programmation\codeblocks\yagl\src\headers\font.h
+
+1365464711 c:\users\homer\programmation\codeblocks\yagl\src\headers\text.h
+
+1365505988 c:\users\homer\programmation\codeblocks\yagl\src\headers\accessors_quad.h
+
+1365505995 c:\users\homer\programmation\codeblocks\yagl\src\headers\accessors_sprite.h
+
+1367501612 c:\users\homer\programmation\codeblocks\yagl\src\headers\accessors_pemitter.h
+
+1365505976 c:\users\homer\programmation\codeblocks\yagl\src\headers\accessors_bmptext.h
+
+1367448744 source:c:\users\homer\programmation\codeblocks\yagl\src\accessors_bmptext.c
+	"all.h"
+
+1367501594 source:c:\users\homer\programmation\codeblocks\yagl\src\accessors_pemitter.c
+	"all.h"
+
+1367448743 source:c:\users\homer\programmation\codeblocks\yagl\src\accessors_sprite.c
+	"all.h"
+
+1365464028 source:c:\users\homer\programmation\codeblocks\yagl\src\accessors_quad.c
+	"all.h"
+
+1367448743 source:c:\users\homer\programmation\codeblocks\yagl\src\animation.c
+	"all.h"
+
+1367448743 source:c:\users\homer\programmation\codeblocks\yagl\src\collision.c
+	<math.h>
+	"all.h"
+
+1367448744 source:c:\users\homer\programmation\codeblocks\yagl\src\draw.c
+	<math.h>
+	"all.h"
+
+1367448743 source:c:\users\homer\programmation\codeblocks\yagl\src\events.c
+	"all.h"
+
+1367448744 source:c:\users\homer\programmation\codeblocks\yagl\src\font.c
+	<stdio.h>
+	<string.h>
+	"all.h"
+
+1369834098 source:c:\users\homer\programmation\codeblocks\yagl\src\geometry.c
+	<math.h>
+	"all.h"
+
+1367757728 source:c:\users\homer\programmation\codeblocks\yagl\src\internal.c
+	<string.h>
+	<time.h>
+	<math.h>
+	"all.h"
+
+1367758176 source:c:\users\homer\programmation\codeblocks\yagl\src\misc.c
+	"all.h"
+
+1368221434 source:c:\users\homer\programmation\codeblocks\yagl\src\particle.c
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"all.h"
+
+1368229749 source:c:\users\homer\programmation\codeblocks\yagl\src\quad.c
+	"all.h"
+
+1367448743 source:c:\users\homer\programmation\codeblocks\yagl\src\render.c
+	"all.h"
+
+1367448744 source:c:\users\homer\programmation\codeblocks\yagl\src\shader.c
+	<string.h>
+	"all.h"
+
+1368229651 source:c:\users\homer\programmation\codeblocks\yagl\src\sprite.c
+	<math.h>
+	"all.h"
+
+1367536561 source:c:\users\homer\programmation\codeblocks\yagl\src\sprite_set.c
+	"all.h"
+
+1365462707 source:c:\users\homer\programmation\codeblocks\yagl\src\strtable.c
+	"all.h"
+
+1367448743 source:c:\users\homer\programmation\codeblocks\yagl\src\system.c
+	<time.h>
+	"all.h"
+
+1367448744 source:c:\users\homer\programmation\codeblocks\yagl\src\text.c
+	<string.h>
+	"all.h"
+
+1367672492 source:c:\users\homer\programmation\codeblocks\yagl\src\texture.c
+	"all.h"
+
+1367448743 source:c:\users\homer\programmation\codeblocks\yagl\src\texture_map.c
+	"all.h"
+
+1367448743 source:c:\users\homer\programmation\codeblocks\yagl\src\view.c
+	"all.h"
+
+1367747185 source:c:\users\homer\programmation\codeblocks\yagl\src\window.c
+	"all.h"
+
+1367448744 source:c:\users\homer\programmation\codeblocks\yagl\src\shader_uniform.c
+	<string.h>
+	"all.h"
+
+1368231027 source:c:\users\homer\programmation\codeblocks\yagl\src\multiset.c
+	"all.h"
+
+1357461271 source:c:\users\homer\programmation\c-c++\yagl\lib\ini.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"ini.h"
+	<stdlib.h>
+
+1362577548 c:\users\homer\programmation\c-c++\yagl\lib\ini.h
+	<stdio.h>
+
+1367530377 source:c:\users\homer\programmation\c-c++\yagl\lib\mem.c
+	<stdlib.h>
+	<stdio.h>
+	"all.h"
+	"mem.h"
+
+1368220718 c:\users\homer\programmation\c-c++\yagl\src\headers\all.h
+	"glfw.h"
+	"ini.h"
+	"mem.h"
+	"soil.h"
+	"internal.h"
+	"system.h"
+	"window.h"
+	"render.h"
+	"view.h"
+	"events.h"
+	"misc.h"
+	"texture.h"
+	"texture_map.h"
+	"quad.h"
+	"sprite.h"
+	"sprite_set.h"
+	"animation.h"
+	"collision.h"
+	"particle.h"
+	"shader.h"
+	"draw.h"
+	"geometry.h"
+	"font.h"
+	"text.h"
+	"accessors_quad.h"
+	"accessors_sprite.h"
+	"accessors_pemitter.h"
+	"accessors_bmptext.h"
+
+1332293502 c:\users\homer\programmation\c-c++\yagl\lib\glfw.h
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1367530356 c:\users\homer\programmation\c-c++\yagl\lib\mem.h
+
+1215450808 c:\users\homer\programmation\c-c++\yagl\lib\soil.h
+
+1367757708 c:\users\homer\programmation\c-c++\yagl\src\headers\internal.h
+	<stdio.h>
+	<stdlib.h>
+	<GL\glext.h>
+	"set.h"
+
+1365463411 c:\users\homer\programmation\c-c++\yagl\lib\set.h
+	<stdio.h>
+	<stdlib.h>
+
+1365464027 c:\users\homer\programmation\c-c++\yagl\src\headers\system.h
+
+1365602007 c:\users\homer\programmation\c-c++\yagl\src\headers\window.h
+
+1365953993 c:\users\homer\programmation\c-c++\yagl\src\headers\render.h
+
+1365464027 c:\users\homer\programmation\c-c++\yagl\src\headers\view.h
+
+1365464027 c:\users\homer\programmation\c-c++\yagl\src\headers\events.h
+
+1367757665 c:\users\homer\programmation\c-c++\yagl\src\headers\misc.h
+
+1365594125 c:\users\homer\programmation\c-c++\yagl\src\headers\texture.h
+
+1365464027 c:\users\homer\programmation\c-c++\yagl\src\headers\texture_map.h
+
+1365464664 c:\users\homer\programmation\c-c++\yagl\src\headers\quad.h
+
+1365954768 c:\users\homer\programmation\c-c++\yagl\src\headers\sprite.h
+
+1367247002 c:\users\homer\programmation\c-c++\yagl\src\headers\sprite_set.h
+
+1365954921 c:\users\homer\programmation\c-c++\yagl\src\headers\animation.h
+
+1365464027 c:\users\homer\programmation\c-c++\yagl\src\headers\collision.h
+
+1368218061 c:\users\homer\programmation\c-c++\yagl\src\headers\particle.h
+
+1367152248 c:\users\homer\programmation\c-c++\yagl\src\headers\shader.h
+
+1365464027 c:\users\homer\programmation\c-c++\yagl\src\headers\draw.h
+
+1365464027 c:\users\homer\programmation\c-c++\yagl\src\headers\geometry.h
+
+1365464638 c:\users\homer\programmation\c-c++\yagl\src\headers\font.h
+
+1365464711 c:\users\homer\programmation\c-c++\yagl\src\headers\text.h
+
+1365505988 c:\users\homer\programmation\c-c++\yagl\src\headers\accessors_quad.h
+
+1365505995 c:\users\homer\programmation\c-c++\yagl\src\headers\accessors_sprite.h
+
+1367501612 c:\users\homer\programmation\c-c++\yagl\src\headers\accessors_pemitter.h
+
+1365505976 c:\users\homer\programmation\c-c++\yagl\src\headers\accessors_bmptext.h
+
+1337556479 source:c:\users\homer\programmation\c-c++\yagl\lib\set.c
+	<stdio.h>
+	<stdlib.h>
+	"set.h"
+
+1367448744 source:c:\users\homer\programmation\c-c++\yagl\src\accessors_bmptext.c
+	"all.h"
+
+1367501594 source:c:\users\homer\programmation\c-c++\yagl\src\accessors_pemitter.c
+	"all.h"
+
+1365464028 source:c:\users\homer\programmation\c-c++\yagl\src\accessors_quad.c
+	"all.h"
+
+1367448743 source:c:\users\homer\programmation\c-c++\yagl\src\accessors_sprite.c
+	"all.h"
+
+1367448743 source:c:\users\homer\programmation\c-c++\yagl\src\animation.c
+	"all.h"
+
+1367448743 source:c:\users\homer\programmation\c-c++\yagl\src\collision.c
+	<math.h>
+	"all.h"
+
+1370213682 source:c:\users\homer\programmation\c-c++\yagl\src\draw.c
+	<math.h>
+	"all.h"
+
+1367448743 source:c:\users\homer\programmation\c-c++\yagl\src\events.c
+	"all.h"
+
+1367448744 source:c:\users\homer\programmation\c-c++\yagl\src\font.c
+	<stdio.h>
+	<string.h>
+	"all.h"
+
+1369834098 source:c:\users\homer\programmation\c-c++\yagl\src\geometry.c
+	<math.h>
+	"all.h"
+
+1367757728 source:c:\users\homer\programmation\c-c++\yagl\src\internal.c
+	<string.h>
+	<time.h>
+	<math.h>
+	"all.h"
+
+1367758176 source:c:\users\homer\programmation\c-c++\yagl\src\misc.c
+	"all.h"
+
+1368231027 source:c:\users\homer\programmation\c-c++\yagl\src\multiset.c
+	"all.h"
+
+1368221434 source:c:\users\homer\programmation\c-c++\yagl\src\particle.c
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"all.h"
+
+1368229749 source:c:\users\homer\programmation\c-c++\yagl\src\quad.c
+	"all.h"
+
+1367448743 source:c:\users\homer\programmation\c-c++\yagl\src\render.c
+	"all.h"
+
+1367448744 source:c:\users\homer\programmation\c-c++\yagl\src\shader.c
+	<string.h>
+	"all.h"
+
+1367448744 source:c:\users\homer\programmation\c-c++\yagl\src\shader_uniform.c
+	<string.h>
+	"all.h"
+
+1368229651 source:c:\users\homer\programmation\c-c++\yagl\src\sprite.c
+	<math.h>
+	"all.h"
+
+1367536561 source:c:\users\homer\programmation\c-c++\yagl\src\sprite_set.c
+	"all.h"
+
+1365462707 source:c:\users\homer\programmation\c-c++\yagl\src\strtable.c
+	"all.h"
+
+1367448743 source:c:\users\homer\programmation\c-c++\yagl\src\system.c
+	<time.h>
+	"all.h"
+
+1367448744 source:c:\users\homer\programmation\c-c++\yagl\src\text.c
+	<string.h>
+	"all.h"
+
+1367672492 source:c:\users\homer\programmation\c-c++\yagl\src\texture.c
+	"all.h"
+
+1367448743 source:c:\users\homer\programmation\c-c++\yagl\src\texture_map.c
+	"all.h"
+
+1367448743 source:c:\users\homer\programmation\c-c++\yagl\src\view.c
+	"all.h"
+
+1367747185 source:c:\users\homer\programmation\c-c++\yagl\src\window.c
+	"all.h"
+

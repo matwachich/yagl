@@ -1,0 +1,905 @@
+\begin{theindex}
+
+  \item {A\-L\-I\-G\-N\-\_\-\-C\-E\-N\-T\-E\-R}
+    \subitem {Enumerations}, \hyperpage{37}
+  \item {A\-L\-I\-G\-N\-\_\-\-L\-E\-F\-T}
+    \subitem {Enumerations}, \hyperpage{37}
+  \item {A\-L\-I\-G\-N\-\_\-\-R\-I\-G\-H\-T}
+    \subitem {Enumerations}, \hyperpage{37}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Add\discretionary {-}{}{}Frame}
+    \subitem {Animations}, \hyperpage{23}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Add\discretionary {-}{}{}Frame\discretionary {-}{}{}Ex}
+    \subitem {Animations}, \hyperpage{22}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Create}
+    \subitem {Animations}, \hyperpage{22}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Destroy}
+    \subitem {Animations}, \hyperpage{24}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Empty}
+    \subitem {Animations}, \hyperpage{23}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Count}
+    \subitem {Animations}, \hyperpage{23}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Get\discretionary {-}{}{}Blend\discretionary {-}{}{}Mode}
+    \subitem {Animations}, \hyperpage{26}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Get\discretionary {-}{}{}Color}
+    \subitem {Animations}, \hyperpage{25}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Get\discretionary {-}{}{}Color\discretionary {-}{}{}Ex}
+    \subitem {Animations}, \hyperpage{26}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Get\discretionary {-}{}{}Duration}
+    \subitem {Animations}, \hyperpage{25}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Get\discretionary {-}{}{}Size}
+    \subitem {Animations}, \hyperpage{26}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Get\discretionary {-}{}{}Texture}
+    \subitem {Animations}, \hyperpage{25}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Max}
+    \subitem {Animations}, \hyperpage{23}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Set\discretionary {-}{}{}Blank}
+    \subitem {Animations}, \hyperpage{23}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Set\discretionary {-}{}{}Blend\discretionary {-}{}{}Mode}
+    \subitem {Animations}, \hyperpage{25}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Set\discretionary {-}{}{}Color}
+    \subitem {Animations}, \hyperpage{24}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Set\discretionary {-}{}{}Color\discretionary {-}{}{}Ex}
+    \subitem {Animations}, \hyperpage{24}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Set\discretionary {-}{}{}Duration}
+    \subitem {Animations}, \hyperpage{24}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Set\discretionary {-}{}{}Size}
+    \subitem {Animations}, \hyperpage{25}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Set\discretionary {-}{}{}Texture}
+    \subitem {Animations}, \hyperpage{24}
+  \item {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Is\discretionary {-}{}{}Animation}
+    \subitem {Animations}, \hyperpage{22}
+  \item {Animations}, \hyperpage{21}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Add\discretionary {-}{}{}Frame}, 
+		\hyperpage{23}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Add\discretionary {-}{}{}Frame\discretionary {-}{}{}Ex}, 
+		\hyperpage{22}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Create}, 
+		\hyperpage{22}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Destroy}, 
+		\hyperpage{24}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Empty}, 
+		\hyperpage{23}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Count}, 
+		\hyperpage{23}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Get\discretionary {-}{}{}Blend\discretionary {-}{}{}Mode}, 
+		\hyperpage{26}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Get\discretionary {-}{}{}Color}, 
+		\hyperpage{25}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Get\discretionary {-}{}{}Color\discretionary {-}{}{}Ex}, 
+		\hyperpage{26}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Get\discretionary {-}{}{}Duration}, 
+		\hyperpage{25}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Get\discretionary {-}{}{}Size}, 
+		\hyperpage{26}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Get\discretionary {-}{}{}Texture}, 
+		\hyperpage{25}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Max}, 
+		\hyperpage{23}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Set\discretionary {-}{}{}Blank}, 
+		\hyperpage{23}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Set\discretionary {-}{}{}Blend\discretionary {-}{}{}Mode}, 
+		\hyperpage{25}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Set\discretionary {-}{}{}Color}, 
+		\hyperpage{24}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Set\discretionary {-}{}{}Color\discretionary {-}{}{}Ex}, 
+		\hyperpage{24}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Set\discretionary {-}{}{}Duration}, 
+		\hyperpage{24}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Set\discretionary {-}{}{}Size}, 
+		\hyperpage{25}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Frame\discretionary {-}{}{}Set\discretionary {-}{}{}Texture}, 
+		\hyperpage{24}
+    \subitem {Animation\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Is\discretionary {-}{}{}Animation}, 
+		\hyperpage{22}
+
+  \indexspace
+
+  \item {B\-L\-E\-N\-D\-\_\-\-A\-L\-P\-H\-A}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {B\-L\-E\-N\-D\-\_\-\-B\-L\-A\-C\-K}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {B\-L\-E\-N\-D\-\_\-\-B\-L\-E\-N\-D\-E\-D}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {B\-L\-E\-N\-D\-\_\-\-G\-L\-O\-W}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {B\-L\-E\-N\-D\-\_\-\-N\-O\-\_\-\-C\-H\-A\-N\-G\-E}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {B\-L\-E\-N\-D\-\_\-\-S\-O\-L\-I\-D}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {B\-L\-E\-N\-D\-\_\-\-T\-R\-A\-N\-S}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {Bitmap fonts}, \hyperpage{32}
+  \item {Bitmap text}, \hyperpage{33}
+  \item {Bitmap text accessors}, \hyperpage{50}
+
+  \indexspace
+
+  \item {C\-A\-P\-T\-U\-R\-E\-\_\-\-B\-M\-P}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {C\-A\-P\-T\-U\-R\-E\-\_\-\-D\-D\-S}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {C\-A\-P\-T\-U\-R\-E\-\_\-\-T\-G\-A}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {C\-E\-N\-T\-E\-R\-\_\-\-B\-L\-E\-F\-T}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {C\-E\-N\-T\-E\-R\-\_\-\-B\-R\-I\-G\-H\-T}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {C\-E\-N\-T\-E\-R\-\_\-\-C\-B\-O\-T\-T\-O\-M}
+    \subitem {Enumerations}, \hyperpage{37}
+  \item {C\-E\-N\-T\-E\-R\-\_\-\-C\-E\-N\-T\-E\-R}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {C\-E\-N\-T\-E\-R\-\_\-\-C\-L\-E\-F\-T}
+    \subitem {Enumerations}, \hyperpage{37}
+  \item {C\-E\-N\-T\-E\-R\-\_\-\-C\-R\-I\-G\-H\-T}
+    \subitem {Enumerations}, \hyperpage{37}
+  \item {C\-E\-N\-T\-E\-R\-\_\-\-C\-U\-P}
+    \subitem {Enumerations}, \hyperpage{37}
+  \item {C\-E\-N\-T\-E\-R\-\_\-\-U\-L\-E\-F\-T}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {C\-E\-N\-T\-E\-R\-\_\-\-U\-R\-I\-G\-H\-T}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {Callbacks}, \hyperpage{47}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}Debug\discretionary {-}{}{}Proc}, 
+		\hyperpage{47}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}Mouse\discretionary {-}{}{}Button\discretionary {-}{}{}Proc}, 
+		\hyperpage{48}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}Mouse\discretionary {-}{}{}Pos\discretionary {-}{}{}Proc}, 
+		\hyperpage{47}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}Win\discretionary {-}{}{}Close\discretionary {-}{}{}Proc}, 
+		\hyperpage{47}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}Win\discretionary {-}{}{}Size\discretionary {-}{}{}Proc}, 
+		\hyperpage{47}
+  \item {Collisions}, \hyperpage{27}
+  \item {Colors}, \hyperpage{43}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A\discretionary {-}{}{}Q\discretionary {-}{}{}U\discretionary {-}{}{}A}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A\discretionary {-}{}{}Q\discretionary {-}{}{}U\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}, 
+		\hyperpage{45}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}C\discretionary {-}{}{}K}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}C\discretionary {-}{}{}K\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}L\discretionary {-}{}{}U\discretionary {-}{}{}E}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}L\discretionary {-}{}{}U\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}, 
+		\hyperpage{45}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}Y\discretionary {-}{}{}A\discretionary {-}{}{}N}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}Y\discretionary {-}{}{}A\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}, 
+		\hyperpage{45}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}C\discretionary {-}{}{}H\discretionary {-}{}{}I\discretionary {-}{}{}A}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}G\discretionary {-}{}{}R\discretionary {-}{}{}A\discretionary {-}{}{}Y}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}G\discretionary {-}{}{}R\discretionary {-}{}{}A\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}, 
+		\hyperpage{45}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}G\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}E\discretionary {-}{}{}N}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}G\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}I\discretionary {-}{}{}M\discretionary {-}{}{}E}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}I\discretionary {-}{}{}M\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}, 
+		\hyperpage{45}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}T\discretionary {-}{}{}A}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}A\discretionary {-}{}{}R\discretionary {-}{}{}O\discretionary {-}{}{}O\discretionary {-}{}{}N}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}A\discretionary {-}{}{}R\discretionary {-}{}{}O\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}V\discretionary {-}{}{}Y}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}V\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}, 
+		\hyperpage{45}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}I\discretionary {-}{}{}V\discretionary {-}{}{}E}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}I\discretionary {-}{}{}V\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}, 
+		\hyperpage{45}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}P\discretionary {-}{}{}U\discretionary {-}{}{}R\discretionary {-}{}{}P\discretionary {-}{}{}L\discretionary {-}{}{}E}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}P\discretionary {-}{}{}U\discretionary {-}{}{}R\discretionary {-}{}{}P\discretionary {-}{}{}L\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}, 
+		\hyperpage{45}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}D}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}D\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}, 
+		\hyperpage{45}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}S\discretionary {-}{}{}I\discretionary {-}{}{}L\discretionary {-}{}{}V\discretionary {-}{}{}E\discretionary {-}{}{}R}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}S\discretionary {-}{}{}I\discretionary {-}{}{}L\discretionary {-}{}{}V\discretionary {-}{}{}E\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}, 
+		\hyperpage{45}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}A\discretionary {-}{}{}L}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}A\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}, 
+		\hyperpage{45}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}W\discretionary {-}{}{}H\discretionary {-}{}{}I\discretionary {-}{}{}T\discretionary {-}{}{}E}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}W\discretionary {-}{}{}H\discretionary {-}{}{}I\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}, 
+		\hyperpage{45}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Y\discretionary {-}{}{}E\discretionary {-}{}{}L\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}W}, 
+		\hyperpage{44}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Y\discretionary {-}{}{}E\discretionary {-}{}{}L\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}W\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}, 
+		\hyperpage{45}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}G\discretionary {-}{}{}B\discretionary {-}{}{}A}, 
+		\hyperpage{44}
+  \item {Constants \& Enumerations}, \hyperpage{34}
+
+  \indexspace
+
+  \item {D\-E\-B\-U\-G\-\_\-\-O\-F\-F}
+    \subitem {Enumerations}, \hyperpage{35}
+  \item {D\-E\-B\-U\-G\-\_\-\-O\-N\-\_\-\-F\-I\-L\-E}
+    \subitem {Enumerations}, \hyperpage{35}
+  \item {D\-E\-B\-U\-G\-\_\-\-O\-N\-\_\-\-S\-T\-D}
+    \subitem {Enumerations}, \hyperpage{35}
+
+  \indexspace
+
+  \item {e\discretionary {-}{}{}A\discretionary {-}{}{}L\discretionary {-}{}{}I\discretionary {-}{}{}G\discretionary {-}{}{}N}
+    \subitem {Enumerations}, \hyperpage{37}
+  \item {e\discretionary {-}{}{}B\discretionary {-}{}{}L\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}D\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}D\discretionary {-}{}{}E}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {e\discretionary {-}{}{}C\discretionary {-}{}{}A\discretionary {-}{}{}P\discretionary {-}{}{}T\discretionary {-}{}{}U\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}Y\discretionary {-}{}{}P\discretionary {-}{}{}E}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {e\discretionary {-}{}{}C\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}R}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {e\discretionary {-}{}{}D\discretionary {-}{}{}E\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}G}
+    \subitem {Enumerations}, \hyperpage{35}
+  \item {e\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}P\discretionary {-}{}{}O\discretionary {-}{}{}S\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}D\discretionary {-}{}{}E}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {e\discretionary {-}{}{}S\discretionary {-}{}{}H\discretionary {-}{}{}A\discretionary {-}{}{}D\discretionary {-}{}{}E\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}Y\discretionary {-}{}{}P\discretionary {-}{}{}E}
+    \subitem {Enumerations}, \hyperpage{37}
+  \item {e\discretionary {-}{}{}S\discretionary {-}{}{}H\discretionary {-}{}{}A\discretionary {-}{}{}P\discretionary {-}{}{}E}
+    \subitem {Enumerations}, \hyperpage{37}
+  \item {e\discretionary {-}{}{}V\discretionary {-}{}{}E\discretionary {-}{}{}R\discretionary {-}{}{}S\discretionary {-}{}{}I\discretionary {-}{}{}O\discretionary {-}{}{}N}
+    \subitem {Enumerations}, \hyperpage{35}
+  \item {Enumerations}, \hyperpage{35}
+    \subitem {A\-L\-I\-G\-N\-\_\-\-C\-E\-N\-T\-E\-R}, \hyperpage{37}
+    \subitem {A\-L\-I\-G\-N\-\_\-\-L\-E\-F\-T}, \hyperpage{37}
+    \subitem {A\-L\-I\-G\-N\-\_\-\-R\-I\-G\-H\-T}, \hyperpage{37}
+    \subitem {B\-L\-E\-N\-D\-\_\-\-A\-L\-P\-H\-A}, \hyperpage{36}
+    \subitem {B\-L\-E\-N\-D\-\_\-\-B\-L\-A\-C\-K}, \hyperpage{36}
+    \subitem {B\-L\-E\-N\-D\-\_\-\-B\-L\-E\-N\-D\-E\-D}, \hyperpage{36}
+    \subitem {B\-L\-E\-N\-D\-\_\-\-G\-L\-O\-W}, \hyperpage{36}
+    \subitem {B\-L\-E\-N\-D\-\_\-\-N\-O\-\_\-\-C\-H\-A\-N\-G\-E}, 
+		\hyperpage{36}
+    \subitem {B\-L\-E\-N\-D\-\_\-\-S\-O\-L\-I\-D}, \hyperpage{36}
+    \subitem {B\-L\-E\-N\-D\-\_\-\-T\-R\-A\-N\-S}, \hyperpage{36}
+    \subitem {C\-A\-P\-T\-U\-R\-E\-\_\-\-B\-M\-P}, \hyperpage{36}
+    \subitem {C\-A\-P\-T\-U\-R\-E\-\_\-\-D\-D\-S}, \hyperpage{36}
+    \subitem {C\-A\-P\-T\-U\-R\-E\-\_\-\-T\-G\-A}, \hyperpage{36}
+    \subitem {C\-E\-N\-T\-E\-R\-\_\-\-B\-L\-E\-F\-T}, \hyperpage{36}
+    \subitem {C\-E\-N\-T\-E\-R\-\_\-\-B\-R\-I\-G\-H\-T}, \hyperpage{36}
+    \subitem {C\-E\-N\-T\-E\-R\-\_\-\-C\-B\-O\-T\-T\-O\-M}, 
+		\hyperpage{37}
+    \subitem {C\-E\-N\-T\-E\-R\-\_\-\-C\-E\-N\-T\-E\-R}, \hyperpage{36}
+    \subitem {C\-E\-N\-T\-E\-R\-\_\-\-C\-L\-E\-F\-T}, \hyperpage{37}
+    \subitem {C\-E\-N\-T\-E\-R\-\_\-\-C\-R\-I\-G\-H\-T}, \hyperpage{37}
+    \subitem {C\-E\-N\-T\-E\-R\-\_\-\-C\-U\-P}, \hyperpage{37}
+    \subitem {C\-E\-N\-T\-E\-R\-\_\-\-U\-L\-E\-F\-T}, \hyperpage{36}
+    \subitem {C\-E\-N\-T\-E\-R\-\_\-\-U\-R\-I\-G\-H\-T}, \hyperpage{36}
+    \subitem {D\-E\-B\-U\-G\-\_\-\-O\-F\-F}, \hyperpage{35}
+    \subitem {D\-E\-B\-U\-G\-\_\-\-O\-N\-\_\-\-F\-I\-L\-E}, 
+		\hyperpage{35}
+    \subitem {D\-E\-B\-U\-G\-\_\-\-O\-N\-\_\-\-S\-T\-D}, \hyperpage{35}
+    \subitem {e\discretionary {-}{}{}A\discretionary {-}{}{}L\discretionary {-}{}{}I\discretionary {-}{}{}G\discretionary {-}{}{}N}, 
+		\hyperpage{37}
+    \subitem {e\discretionary {-}{}{}B\discretionary {-}{}{}L\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}D\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}D\discretionary {-}{}{}E}, 
+		\hyperpage{36}
+    \subitem {e\discretionary {-}{}{}C\discretionary {-}{}{}A\discretionary {-}{}{}P\discretionary {-}{}{}T\discretionary {-}{}{}U\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}Y\discretionary {-}{}{}P\discretionary {-}{}{}E}, 
+		\hyperpage{36}
+    \subitem {e\discretionary {-}{}{}C\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}R}, 
+		\hyperpage{36}
+    \subitem {e\discretionary {-}{}{}D\discretionary {-}{}{}E\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}G}, 
+		\hyperpage{35}
+    \subitem {e\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}P\discretionary {-}{}{}O\discretionary {-}{}{}S\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}D\discretionary {-}{}{}E}, 
+		\hyperpage{36}
+    \subitem {e\discretionary {-}{}{}S\discretionary {-}{}{}H\discretionary {-}{}{}A\discretionary {-}{}{}D\discretionary {-}{}{}E\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}Y\discretionary {-}{}{}P\discretionary {-}{}{}E}, 
+		\hyperpage{37}
+    \subitem {e\discretionary {-}{}{}S\discretionary {-}{}{}H\discretionary {-}{}{}A\discretionary {-}{}{}P\discretionary {-}{}{}E}, 
+		\hyperpage{37}
+    \subitem {e\discretionary {-}{}{}V\discretionary {-}{}{}E\discretionary {-}{}{}R\discretionary {-}{}{}S\discretionary {-}{}{}I\discretionary {-}{}{}O\discretionary {-}{}{}N}, 
+		\hyperpage{35}
+    \subitem {M\-O\-U\-S\-E\-\_\-\-P\-O\-S\-\_\-\-W\-I\-N\-\_\-\-R\-E\-L\-A\-T\-I\-V\-E}, 
+		\hyperpage{36}
+    \subitem {M\-O\-U\-S\-E\-\_\-\-P\-O\-S\-\_\-\-W\-O\-R\-L\-D\-\_\-\-R\-E\-L\-A\-T\-I\-V\-E}, 
+		\hyperpage{36}
+    \subitem {S\-H\-A\-D\-E\-R\-\_\-\-F\-R\-A\-G\-M\-E\-N\-T}, 
+		\hyperpage{37}
+    \subitem {S\-H\-A\-D\-E\-R\-\_\-\-V\-E\-R\-T\-E\-X}, \hyperpage{37}
+    \subitem {S\-H\-A\-P\-E\-\_\-\-C\-I\-R\-C\-L\-E}, \hyperpage{37}
+    \subitem {S\-H\-A\-P\-E\-\_\-\-N\-O\-N\-E}, \hyperpage{37}
+    \subitem {S\-H\-A\-P\-E\-\_\-\-P\-O\-I\-N\-T}, \hyperpage{37}
+    \subitem {S\-H\-A\-P\-E\-\_\-\-R\-E\-C\-T}, \hyperpage{37}
+    \subitem {V\-E\-R\-S\-I\-O\-N\-\_\-\-G\-L\-F\-W}, \hyperpage{35}
+    \subitem {V\-E\-R\-S\-I\-O\-N\-\_\-\-O\-G\-L}, \hyperpage{36}
+    \subitem {V\-E\-R\-S\-I\-O\-N\-\_\-\-Y\-A\-G\-L}, \hyperpage{35}
+  \item {Events}, \hyperpage{14}
+
+  \indexspace
+
+  \item {Geometry}, \hyperpage{31}
+
+  \indexspace
+
+  \item {Keyboard \& Mouse}, \hyperpage{38}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}A\discretionary {-}{}{}C\discretionary {-}{}{}K\discretionary {-}{}{}S\discretionary {-}{}{}P\discretionary {-}{}{}A\discretionary {-}{}{}C\discretionary {-}{}{}E}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}A\discretionary {-}{}{}P\discretionary {-}{}{}S\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}C\discretionary {-}{}{}K}, 
+		\hyperpage{42}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}D\discretionary {-}{}{}E\discretionary {-}{}{}L}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}D\discretionary {-}{}{}O\discretionary {-}{}{}W\discretionary {-}{}{}N}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}D}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}R}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}C}, 
+		\hyperpage{39}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F1}, 
+		\hyperpage{39}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F10}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F11}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F12}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F13}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F14}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F15}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F16}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F17}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F18}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F19}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F2}, 
+		\hyperpage{39}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F20}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F21}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F22}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F23}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F24}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F25}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F3}, 
+		\hyperpage{39}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F4}, 
+		\hyperpage{39}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F5}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F6}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F7}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F8}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F9}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}H\discretionary {-}{}{}O\discretionary {-}{}{}M\discretionary {-}{}{}E}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}I\discretionary {-}{}{}N\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}R\discretionary {-}{}{}T}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}0}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}1}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}2}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}3}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}4}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}5}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}6}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}7}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}8}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}9}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A\discretionary {-}{}{}D\discretionary {-}{}{}D}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}D\discretionary {-}{}{}E\discretionary {-}{}{}C\discretionary {-}{}{}I\discretionary {-}{}{}M\discretionary {-}{}{}A\discretionary {-}{}{}L}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}D\discretionary {-}{}{}I\discretionary {-}{}{}V\discretionary {-}{}{}I\discretionary {-}{}{}D\discretionary {-}{}{}E}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}R}, 
+		\hyperpage{42}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}E\discretionary {-}{}{}Q\discretionary {-}{}{}U\discretionary {-}{}{}A\discretionary {-}{}{}L}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}L\discretionary {-}{}{}T}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}S\discretionary {-}{}{}T}, 
+		\hyperpage{42}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}C\discretionary {-}{}{}T\discretionary {-}{}{}R\discretionary {-}{}{}L}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}E\discretionary {-}{}{}F\discretionary {-}{}{}T}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}S\discretionary {-}{}{}H\discretionary {-}{}{}I\discretionary {-}{}{}F\discretionary {-}{}{}T}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}S\discretionary {-}{}{}U\discretionary {-}{}{}P\discretionary {-}{}{}E\discretionary {-}{}{}R}, 
+		\hyperpage{42}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}U}, 
+		\hyperpage{42}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}P\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}E\discretionary {-}{}{}D\discretionary {-}{}{}O\discretionary {-}{}{}W\discretionary {-}{}{}N}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}P\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}E\discretionary {-}{}{}U\discretionary {-}{}{}P}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}P\discretionary {-}{}{}A\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E}, 
+		\hyperpage{42}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}A\discretionary {-}{}{}L\discretionary {-}{}{}T}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}C\discretionary {-}{}{}T\discretionary {-}{}{}R\discretionary {-}{}{}L}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}I\discretionary {-}{}{}G\discretionary {-}{}{}H\discretionary {-}{}{}T}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}S\discretionary {-}{}{}H\discretionary {-}{}{}I\discretionary {-}{}{}F\discretionary {-}{}{}T}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}S\discretionary {-}{}{}U\discretionary {-}{}{}P\discretionary {-}{}{}E\discretionary {-}{}{}R}, 
+		\hyperpage{42}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}S\discretionary {-}{}{}P\discretionary {-}{}{}A\discretionary {-}{}{}C\discretionary {-}{}{}E}, 
+		\hyperpage{39}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}S\discretionary {-}{}{}P\discretionary {-}{}{}E\discretionary {-}{}{}C\discretionary {-}{}{}I\discretionary {-}{}{}A\discretionary {-}{}{}L}, 
+		\hyperpage{39}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}A\discretionary {-}{}{}B}, 
+		\hyperpage{41}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}U\discretionary {-}{}{}N\discretionary {-}{}{}K\discretionary {-}{}{}N\discretionary {-}{}{}O\discretionary {-}{}{}W\discretionary {-}{}{}N}, 
+		\hyperpage{39}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}U\discretionary {-}{}{}P}, 
+		\hyperpage{40}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}T\discretionary {-}{}{}T\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}1}, 
+		\hyperpage{42}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}T\discretionary {-}{}{}T\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}2}, 
+		\hyperpage{42}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}T\discretionary {-}{}{}T\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}3}, 
+		\hyperpage{42}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}T\discretionary {-}{}{}T\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}4}, 
+		\hyperpage{42}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}T\discretionary {-}{}{}T\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}5}, 
+		\hyperpage{42}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}T\discretionary {-}{}{}T\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}6}, 
+		\hyperpage{42}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}T\discretionary {-}{}{}T\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}7}, 
+		\hyperpage{42}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}T\discretionary {-}{}{}T\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}8}, 
+		\hyperpage{42}
+
+  \indexspace
+
+  \item {M\-O\-U\-S\-E\-\_\-\-P\-O\-S\-\_\-\-W\-I\-N\-\_\-\-R\-E\-L\-A\-T\-I\-V\-E}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {M\-O\-U\-S\-E\-\_\-\-P\-O\-S\-\_\-\-W\-O\-R\-L\-D\-\_\-\-R\-E\-L\-A\-T\-I\-V\-E}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {Misc}, \hyperpage{15}
+
+  \indexspace
+
+  \item {Open\discretionary {-}{}{}G\discretionary {-}{}{}L Texture Parameters}, 
+		\hyperpage{46}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}M\discretionary {-}{}{}P}, 
+		\hyperpage{46}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}I\discretionary {-}{}{}N\discretionary {-}{}{}E\discretionary {-}{}{}A\discretionary {-}{}{}R}, 
+		\hyperpage{46}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}N\discretionary {-}{}{}E\discretionary {-}{}{}A\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}T}, 
+		\hyperpage{46}
+    \subitem {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}P\discretionary {-}{}{}E\discretionary {-}{}{}A\discretionary {-}{}{}T}, 
+		\hyperpage{46}
+
+  \indexspace
+
+  \item {Particle emitter accessors}, \hyperpage{49}
+  \item {Particles effects}, \hyperpage{28}
+  \item {Primitives drawing}, \hyperpage{30}
+
+  \indexspace
+
+  \item {Rendering}, \hyperpage{12}
+
+  \indexspace
+
+  \item {S\-H\-A\-D\-E\-R\-\_\-\-F\-R\-A\-G\-M\-E\-N\-T}
+    \subitem {Enumerations}, \hyperpage{37}
+  \item {S\-H\-A\-D\-E\-R\-\_\-\-V\-E\-R\-T\-E\-X}
+    \subitem {Enumerations}, \hyperpage{37}
+  \item {S\-H\-A\-P\-E\-\_\-\-C\-I\-R\-C\-L\-E}
+    \subitem {Enumerations}, \hyperpage{37}
+  \item {S\-H\-A\-P\-E\-\_\-\-N\-O\-N\-E}
+    \subitem {Enumerations}, \hyperpage{37}
+  \item {S\-H\-A\-P\-E\-\_\-\-P\-O\-I\-N\-T}
+    \subitem {Enumerations}, \hyperpage{37}
+  \item {S\-H\-A\-P\-E\-\_\-\-R\-E\-C\-T}
+    \subitem {Enumerations}, \hyperpage{37}
+  \item {Shaders}, \hyperpage{29}
+  \item {Sprite}, \hyperpage{19}
+  \item {Sprite accessors}, \hyperpage{51}
+  \item {Sprite set}, \hyperpage{20}
+  \item {System basics}, \hyperpage{5}
+    \subitem {System\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Debug\discretionary {-}{}{}Out}, 
+		\hyperpage{6}
+    \subitem {System\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Get\discretionary {-}{}{}Desktop\discretionary {-}{}{}Mode}, 
+		\hyperpage{7}
+    \subitem {System\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Get\discretionary {-}{}{}Stats}, 
+		\hyperpage{7}
+    \subitem {System\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Get\discretionary {-}{}{}Version}, 
+		\hyperpage{7}
+    \subitem {System\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Get\discretionary {-}{}{}Video\discretionary {-}{}{}Mode}, 
+		\hyperpage{6}
+    \subitem {System\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Get\discretionary {-}{}{}Video\discretionary {-}{}{}Modes\discretionary {-}{}{}Count}, 
+		\hyperpage{6}
+    \subitem {System\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Init}, 
+		\hyperpage{6}
+    \subitem {System\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Debug\discretionary {-}{}{}Callback}, 
+		\hyperpage{6}
+  \item {System\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Debug\discretionary {-}{}{}Out}
+    \subitem {System basics}, \hyperpage{6}
+  \item {System\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Get\discretionary {-}{}{}Desktop\discretionary {-}{}{}Mode}
+    \subitem {System basics}, \hyperpage{7}
+  \item {System\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Get\discretionary {-}{}{}Stats}
+    \subitem {System basics}, \hyperpage{7}
+  \item {System\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Get\discretionary {-}{}{}Version}
+    \subitem {System basics}, \hyperpage{7}
+  \item {System\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Get\discretionary {-}{}{}Video\discretionary {-}{}{}Mode}
+    \subitem {System basics}, \hyperpage{6}
+  \item {System\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Get\discretionary {-}{}{}Video\discretionary {-}{}{}Modes\discretionary {-}{}{}Count}
+    \subitem {System basics}, \hyperpage{6}
+  \item {System\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Init}
+    \subitem {System basics}, \hyperpage{6}
+  \item {System\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Debug\discretionary {-}{}{}Callback}
+    \subitem {System basics}, \hyperpage{6}
+
+  \indexspace
+
+  \item {Texture map}, \hyperpage{17}
+  \item {Textured Quad}, \hyperpage{18}
+  \item {Textured Quad accessors}, \hyperpage{52}
+  \item {Textures}, \hyperpage{16}
+
+  \indexspace
+
+  \item {V\-E\-R\-S\-I\-O\-N\-\_\-\-G\-L\-F\-W}
+    \subitem {Enumerations}, \hyperpage{35}
+  \item {V\-E\-R\-S\-I\-O\-N\-\_\-\-O\-G\-L}
+    \subitem {Enumerations}, \hyperpage{36}
+  \item {V\-E\-R\-S\-I\-O\-N\-\_\-\-Y\-A\-G\-L}
+    \subitem {Enumerations}, \hyperpage{35}
+  \item {View}, \hyperpage{13}
+
+  \indexspace
+
+  \item {Window}, \hyperpage{8}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Capture}, 
+		\hyperpage{11}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Center}, 
+		\hyperpage{9}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Close}, 
+		\hyperpage{9}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Create}, 
+		\hyperpage{8}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Create\discretionary {-}{}{}Ex}, 
+		\hyperpage{9}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Get\discretionary {-}{}{}Size}, 
+		\hyperpage{10}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Is\discretionary {-}{}{}Accelerated}, 
+		\hyperpage{11}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Is\discretionary {-}{}{}Active}, 
+		\hyperpage{10}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Is\discretionary {-}{}{}Opened}, 
+		\hyperpage{9}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Is\discretionary {-}{}{}Visible}, 
+		\hyperpage{10}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Close\discretionary {-}{}{}Callback}, 
+		\hyperpage{11}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Cursor}, 
+		\hyperpage{11}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Pos}, 
+		\hyperpage{9}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Refresh\discretionary {-}{}{}Callback}, 
+		\hyperpage{11}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Size}, 
+		\hyperpage{10}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Size\discretionary {-}{}{}Callback}, 
+		\hyperpage{11}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Title}, 
+		\hyperpage{10}
+    \subitem {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Visible}, 
+		\hyperpage{10}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Capture}
+    \subitem {Window}, \hyperpage{11}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Center}
+    \subitem {Window}, \hyperpage{9}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Close}
+    \subitem {Window}, \hyperpage{9}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Create}
+    \subitem {Window}, \hyperpage{8}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Create\discretionary {-}{}{}Ex}
+    \subitem {Window}, \hyperpage{9}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Get\discretionary {-}{}{}Size}
+    \subitem {Window}, \hyperpage{10}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Is\discretionary {-}{}{}Accelerated}
+    \subitem {Window}, \hyperpage{11}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Is\discretionary {-}{}{}Active}
+    \subitem {Window}, \hyperpage{10}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Is\discretionary {-}{}{}Opened}
+    \subitem {Window}, \hyperpage{9}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Is\discretionary {-}{}{}Visible}
+    \subitem {Window}, \hyperpage{10}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Close\discretionary {-}{}{}Callback}
+    \subitem {Window}, \hyperpage{11}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Cursor}
+    \subitem {Window}, \hyperpage{11}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Pos}
+    \subitem {Window}, \hyperpage{9}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Refresh\discretionary {-}{}{}Callback}
+    \subitem {Window}, \hyperpage{11}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Size}
+    \subitem {Window}, \hyperpage{10}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Size\discretionary {-}{}{}Callback}
+    \subitem {Window}, \hyperpage{11}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Title}
+    \subitem {Window}, \hyperpage{10}
+  \item {Window\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Set\discretionary {-}{}{}Visible}
+    \subitem {Window}, \hyperpage{10}
+
+  \indexspace
+
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A\discretionary {-}{}{}Q\discretionary {-}{}{}U\discretionary {-}{}{}A}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A\discretionary {-}{}{}Q\discretionary {-}{}{}U\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}
+    \subitem {Colors}, \hyperpage{45}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}C\discretionary {-}{}{}K}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}C\discretionary {-}{}{}K\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}L\discretionary {-}{}{}U\discretionary {-}{}{}E}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}L\discretionary {-}{}{}U\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}
+    \subitem {Colors}, \hyperpage{45}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}Y\discretionary {-}{}{}A\discretionary {-}{}{}N}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}Y\discretionary {-}{}{}A\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}
+    \subitem {Colors}, \hyperpage{45}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}C\discretionary {-}{}{}H\discretionary {-}{}{}I\discretionary {-}{}{}A}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}G\discretionary {-}{}{}R\discretionary {-}{}{}A\discretionary {-}{}{}Y}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}G\discretionary {-}{}{}R\discretionary {-}{}{}A\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}
+    \subitem {Colors}, \hyperpage{45}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}G\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}E\discretionary {-}{}{}N}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}G\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}I\discretionary {-}{}{}M\discretionary {-}{}{}E}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}I\discretionary {-}{}{}M\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}
+    \subitem {Colors}, \hyperpage{45}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}T\discretionary {-}{}{}A}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}A\discretionary {-}{}{}R\discretionary {-}{}{}O\discretionary {-}{}{}O\discretionary {-}{}{}N}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}A\discretionary {-}{}{}R\discretionary {-}{}{}O\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}V\discretionary {-}{}{}Y}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}V\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}
+    \subitem {Colors}, \hyperpage{45}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}I\discretionary {-}{}{}V\discretionary {-}{}{}E}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}I\discretionary {-}{}{}V\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}
+    \subitem {Colors}, \hyperpage{45}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}P\discretionary {-}{}{}U\discretionary {-}{}{}R\discretionary {-}{}{}P\discretionary {-}{}{}L\discretionary {-}{}{}E}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}P\discretionary {-}{}{}U\discretionary {-}{}{}R\discretionary {-}{}{}P\discretionary {-}{}{}L\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}
+    \subitem {Colors}, \hyperpage{45}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}D}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}D\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}
+    \subitem {Colors}, \hyperpage{45}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}S\discretionary {-}{}{}I\discretionary {-}{}{}L\discretionary {-}{}{}V\discretionary {-}{}{}E\discretionary {-}{}{}R}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}S\discretionary {-}{}{}I\discretionary {-}{}{}L\discretionary {-}{}{}V\discretionary {-}{}{}E\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}
+    \subitem {Colors}, \hyperpage{45}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}A\discretionary {-}{}{}L}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}A\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}
+    \subitem {Colors}, \hyperpage{45}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}W\discretionary {-}{}{}H\discretionary {-}{}{}I\discretionary {-}{}{}T\discretionary {-}{}{}E}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}W\discretionary {-}{}{}H\discretionary {-}{}{}I\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}
+    \subitem {Colors}, \hyperpage{45}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Y\discretionary {-}{}{}E\discretionary {-}{}{}L\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}W}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}O\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}R\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Y\discretionary {-}{}{}E\discretionary {-}{}{}L\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}W\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A128}
+    \subitem {Colors}, \hyperpage{45}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}M\discretionary {-}{}{}P}
+    \subitem {Open\discretionary {-}{}{}G\discretionary {-}{}{}L Texture Parameters}, 
+		\hyperpage{46}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}I\discretionary {-}{}{}N\discretionary {-}{}{}E\discretionary {-}{}{}A\discretionary {-}{}{}R}
+    \subitem {Open\discretionary {-}{}{}G\discretionary {-}{}{}L Texture Parameters}, 
+		\hyperpage{46}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}N\discretionary {-}{}{}E\discretionary {-}{}{}A\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}T}
+    \subitem {Open\discretionary {-}{}{}G\discretionary {-}{}{}L Texture Parameters}, 
+		\hyperpage{46}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}P\discretionary {-}{}{}E\discretionary {-}{}{}A\discretionary {-}{}{}T}
+    \subitem {Open\discretionary {-}{}{}G\discretionary {-}{}{}L Texture Parameters}, 
+		\hyperpage{46}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}A\discretionary {-}{}{}C\discretionary {-}{}{}K\discretionary {-}{}{}S\discretionary {-}{}{}P\discretionary {-}{}{}A\discretionary {-}{}{}C\discretionary {-}{}{}E}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}C\discretionary {-}{}{}A\discretionary {-}{}{}P\discretionary {-}{}{}S\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}O\discretionary {-}{}{}C\discretionary {-}{}{}K}
+    \subitem {Keyboard \& Mouse}, \hyperpage{42}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}D\discretionary {-}{}{}E\discretionary {-}{}{}L}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}D\discretionary {-}{}{}O\discretionary {-}{}{}W\discretionary {-}{}{}N}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}D}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}R}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}C}
+    \subitem {Keyboard \& Mouse}, \hyperpage{39}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F1}
+    \subitem {Keyboard \& Mouse}, \hyperpage{39}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F10}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F11}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F12}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F13}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F14}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F15}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F16}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F17}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F18}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F19}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F2}
+    \subitem {Keyboard \& Mouse}, \hyperpage{39}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F20}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F21}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F22}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F23}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F24}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F25}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F3}
+    \subitem {Keyboard \& Mouse}, \hyperpage{39}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F4}
+    \subitem {Keyboard \& Mouse}, \hyperpage{39}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F5}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F6}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F7}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F8}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}F9}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}H\discretionary {-}{}{}O\discretionary {-}{}{}M\discretionary {-}{}{}E}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}I\discretionary {-}{}{}N\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}R\discretionary {-}{}{}T}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}0}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}1}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}2}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}3}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}4}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}5}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}6}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}7}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}8}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}9}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}A\discretionary {-}{}{}D\discretionary {-}{}{}D}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}D\discretionary {-}{}{}E\discretionary {-}{}{}C\discretionary {-}{}{}I\discretionary {-}{}{}M\discretionary {-}{}{}A\discretionary {-}{}{}L}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}D\discretionary {-}{}{}I\discretionary {-}{}{}V\discretionary {-}{}{}I\discretionary {-}{}{}D\discretionary {-}{}{}E}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}R}
+    \subitem {Keyboard \& Mouse}, \hyperpage{42}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}P\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}E\discretionary {-}{}{}Q\discretionary {-}{}{}U\discretionary {-}{}{}A\discretionary {-}{}{}L}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}L\discretionary {-}{}{}T}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}S\discretionary {-}{}{}T}
+    \subitem {Keyboard \& Mouse}, \hyperpage{42}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}C\discretionary {-}{}{}T\discretionary {-}{}{}R\discretionary {-}{}{}L}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}E\discretionary {-}{}{}F\discretionary {-}{}{}T}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}S\discretionary {-}{}{}H\discretionary {-}{}{}I\discretionary {-}{}{}F\discretionary {-}{}{}T}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}L\discretionary {-}{}{}S\discretionary {-}{}{}U\discretionary {-}{}{}P\discretionary {-}{}{}E\discretionary {-}{}{}R}
+    \subitem {Keyboard \& Mouse}, \hyperpage{42}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}U}
+    \subitem {Keyboard \& Mouse}, \hyperpage{42}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}P\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}E\discretionary {-}{}{}D\discretionary {-}{}{}O\discretionary {-}{}{}W\discretionary {-}{}{}N}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}P\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}E\discretionary {-}{}{}U\discretionary {-}{}{}P}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}P\discretionary {-}{}{}A\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E}
+    \subitem {Keyboard \& Mouse}, \hyperpage{42}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}A\discretionary {-}{}{}L\discretionary {-}{}{}T}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}C\discretionary {-}{}{}T\discretionary {-}{}{}R\discretionary {-}{}{}L}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}I\discretionary {-}{}{}G\discretionary {-}{}{}H\discretionary {-}{}{}T}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}S\discretionary {-}{}{}H\discretionary {-}{}{}I\discretionary {-}{}{}F\discretionary {-}{}{}T}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}S\discretionary {-}{}{}U\discretionary {-}{}{}P\discretionary {-}{}{}E\discretionary {-}{}{}R}
+    \subitem {Keyboard \& Mouse}, \hyperpage{42}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}S\discretionary {-}{}{}P\discretionary {-}{}{}A\discretionary {-}{}{}C\discretionary {-}{}{}E}
+    \subitem {Keyboard \& Mouse}, \hyperpage{39}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}S\discretionary {-}{}{}P\discretionary {-}{}{}E\discretionary {-}{}{}C\discretionary {-}{}{}I\discretionary {-}{}{}A\discretionary {-}{}{}L}
+    \subitem {Keyboard \& Mouse}, \hyperpage{39}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}A\discretionary {-}{}{}B}
+    \subitem {Keyboard \& Mouse}, \hyperpage{41}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}U\discretionary {-}{}{}N\discretionary {-}{}{}K\discretionary {-}{}{}N\discretionary {-}{}{}O\discretionary {-}{}{}W\discretionary {-}{}{}N}
+    \subitem {Keyboard \& Mouse}, \hyperpage{39}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}K\discretionary {-}{}{}E\discretionary {-}{}{}Y\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}U\discretionary {-}{}{}P}
+    \subitem {Keyboard \& Mouse}, \hyperpage{40}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}T\discretionary {-}{}{}T\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}1}
+    \subitem {Keyboard \& Mouse}, \hyperpage{42}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}T\discretionary {-}{}{}T\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}2}
+    \subitem {Keyboard \& Mouse}, \hyperpage{42}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}T\discretionary {-}{}{}T\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}3}
+    \subitem {Keyboard \& Mouse}, \hyperpage{42}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}T\discretionary {-}{}{}T\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}4}
+    \subitem {Keyboard \& Mouse}, \hyperpage{42}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}T\discretionary {-}{}{}T\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}5}
+    \subitem {Keyboard \& Mouse}, \hyperpage{42}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}T\discretionary {-}{}{}T\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}6}
+    \subitem {Keyboard \& Mouse}, \hyperpage{42}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}T\discretionary {-}{}{}T\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}7}
+    \subitem {Keyboard \& Mouse}, \hyperpage{42}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}O\discretionary {-}{}{}U\discretionary {-}{}{}S\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}B\discretionary {-}{}{}U\discretionary {-}{}{}T\discretionary {-}{}{}T\discretionary {-}{}{}O\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}8}
+    \subitem {Keyboard \& Mouse}, \hyperpage{42}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}G\discretionary {-}{}{}B\discretionary {-}{}{}A}
+    \subitem {Colors}, \hyperpage{44}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}Debug\discretionary {-}{}{}Proc}
+    \subitem {Callbacks}, \hyperpage{47}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}Mouse\discretionary {-}{}{}Button\discretionary {-}{}{}Proc}
+    \subitem {Callbacks}, \hyperpage{48}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}Mouse\discretionary {-}{}{}Pos\discretionary {-}{}{}Proc}
+    \subitem {Callbacks}, \hyperpage{47}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}Win\discretionary {-}{}{}Close\discretionary {-}{}{}Proc}
+    \subitem {Callbacks}, \hyperpage{47}
+  \item {Y\discretionary {-}{}{}A\discretionary {-}{}{}G\discretionary {-}{}{}L\discretionary {-}{}{}Win\discretionary {-}{}{}Size\discretionary {-}{}{}Proc}
+    \subitem {Callbacks}, \hyperpage{47}
+
+\end{theindex}

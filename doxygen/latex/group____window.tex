@@ -1,0 +1,377 @@
+\hypertarget{group____window}{\section{Window}
+\label{group____window}\index{Window@{Window}}
+}
+
+
+Window handling.  
+
+
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_gad5b57e088274077555b963af04f18c01}{Window\-\_\-\-Create} (const int width, const int height, const int red\-\_\-bits, const int green\-\_\-bits, const int blue\-\_\-bits, const int fullscreen, const char title\mbox{[}$\,$\mbox{]}, int resizable, const int multisample)
+\begin{DoxyCompactList}\small\item\em Create a render context, window or fullscreen. \end{DoxyCompactList}\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_ga8872ae4b9805c707852bd98537eb45fd}{Window\-\_\-\-Create\-Ex} (int video\-\_\-mode\-\_\-id, const char title\mbox{[}$\,$\mbox{]}, int multisample)
+\begin{DoxyCompactList}\small\item\em Open fullscreen render window according to a video mode. \end{DoxyCompactList}\item 
+\hypertarget{group____window_ga2c855f7d4da7e2050efd59247b0194ab}{void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_ga2c855f7d4da7e2050efd59247b0194ab}{Window\-\_\-\-Close} ()}\label{group____window_ga2c855f7d4da7e2050efd59247b0194ab}
+
+\begin{DoxyCompactList}\small\item\em Close window. \end{DoxyCompactList}\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_ga7f76a09d3deff66720752bf2a0923d4f}{Window\-\_\-\-Is\-Opened} ()
+\begin{DoxyCompactList}\small\item\em Check if a rendering window is opened. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_ga7374ce0332c91678a678553a1cae0d0d}{Window\-\_\-\-Center} ()
+\begin{DoxyCompactList}\small\item\em Center the rendering window on the desktop. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_ga32ea67ebad901a6153c8ceb61af5ce3a}{Window\-\_\-\-Set\-Pos} (const int x, const int y)
+\begin{DoxyCompactList}\small\item\em Set the position of the upper-\/left corner of the rendering window. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_gac754a769c0175b881d6d681449b763f2}{Window\-\_\-\-Set\-Size} (const int w, const int h)
+\begin{DoxyCompactList}\small\item\em Set window size, or fullscreen display resolution. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_ga142e4c04a7eae7868c5900b29f08f7e5}{Window\-\_\-\-Get\-Size} (int $\ast$w, int $\ast$h)
+\begin{DoxyCompactList}\small\item\em Get window size, or fullscreen display resolution. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_ga67e07e415c971fe4951e571e2b391cf8}{Window\-\_\-\-Set\-Title} (const char title\mbox{[}$\,$\mbox{]})
+\begin{DoxyCompactList}\small\item\em Set window title. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_gaae0db1f486524085101e661ee57f921b}{Window\-\_\-\-Set\-Visible} (const int flag)
+\begin{DoxyCompactList}\small\item\em Iconify/\-Restor a window. \end{DoxyCompactList}\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_ga6a604ab9207347c2a0b72490846d361a}{Window\-\_\-\-Is\-Visible} ()
+\begin{DoxyCompactList}\small\item\em Check if a window is iconified. \end{DoxyCompactList}\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_gaaa82953eb660afd5c2f33656f68860c6}{Window\-\_\-\-Is\-Active} ()
+\begin{DoxyCompactList}\small\item\em Check if a window has the focus. \end{DoxyCompactList}\item 
+int Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_gab2a76593e5240f77193cc0e18f9e829e}{Window\-\_\-\-Is\-Accelerated} ()
+\begin{DoxyCompactList}\small\item\em Check if a window is hardware accelerated. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_ga6f1988a980a344472bcc3a0b3b24ed84}{Window\-\_\-\-Capture} (const char filepath\mbox{[}$\,$\mbox{]}, \hyperlink{group____enums_ga2f60dfad6de37348e99af1c69a907f7d}{e\-C\-A\-P\-T\-U\-R\-E\-\_\-\-T\-Y\-P\-E} type, int x, int y, int w, int h)
+\begin{DoxyCompactList}\small\item\em Take a screenshot of the rendering window (or a part of it) to a file. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_ga97a1238bd052a7482322acfd3e37aab0}{Window\-\_\-\-Set\-Cursor} (const int status)
+\begin{DoxyCompactList}\small\item\em Display/hide the mouse cursor. \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_gabe87127a4dd79764ef3308efe50eb6ea}{Window\-\_\-\-Set\-Close\-Callback} (\hyperlink{group____callbacks_ga75b61763676e4aa7c18f0956518bf740}{Y\-A\-G\-L\-Win\-Close\-Proc} proc)
+\begin{DoxyCompactList}\small\item\em Set a \hyperlink{group____callbacks_ga75b61763676e4aa7c18f0956518bf740}{Y\-A\-G\-L\-Win\-Close\-Proc()} \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_ga8b8636b57540dca4ccf11602cb44c515}{Window\-\_\-\-Set\-Size\-Callback} (\hyperlink{group____callbacks_ga60792a830ce0db49f34dc6b05af814e8}{Y\-A\-G\-L\-Win\-Size\-Proc} proc)
+\begin{DoxyCompactList}\small\item\em Set a \hyperlink{group____callbacks_ga60792a830ce0db49f34dc6b05af814e8}{Y\-A\-G\-L\-Win\-Size\-Proc()} \end{DoxyCompactList}\item 
+void Y\-A\-G\-L\-\_\-\-A\-P\-I \hyperlink{group____window_ga82ef727470b71f298b88ffbcd68a3a59}{Window\-\_\-\-Set\-Refresh\-Callback} (\hyperlink{group____callbacks_gab7e009655f4d5cc624a69e1025b2460d}{Y\-A\-G\-L\-Win\-Refresh\-Proc} proc)
+\begin{DoxyCompactList}\small\item\em Set a \hyperlink{group____callbacks_gab7e009655f4d5cc624a69e1025b2460d}{Y\-A\-G\-L\-Win\-Refresh\-Proc()} \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Window handling. 
+
+\subsection{Function Documentation}
+\hypertarget{group____window_gad5b57e088274077555b963af04f18c01}{\index{Window@{Window}!Window\-\_\-\-Create@{Window\-\_\-\-Create}}
+\index{Window\-\_\-\-Create@{Window\-\_\-\-Create}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Create}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Create (
+\begin{DoxyParamCaption}
+\item[{const int}]{width, }
+\item[{const int}]{height, }
+\item[{const int}]{red\-\_\-bits, }
+\item[{const int}]{green\-\_\-bits, }
+\item[{const int}]{blue\-\_\-bits, }
+\item[{const int}]{fullscreen, }
+\item[{const char}]{title\mbox{[}$\,$\mbox{]}, }
+\item[{int}]{resizable, }
+\item[{const int}]{multisample}
+\end{DoxyParamCaption}
+)}}\label{group____window_gad5b57e088274077555b963af04f18c01}
+
+
+Create a render context, window or fullscreen. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em width\mbox{[}in\mbox{]}} & \\
+\hline
+{\em height\mbox{[}in\mbox{]}} & \\
+\hline
+{\em red\-\_\-bits\mbox{[}in\mbox{]}} & \\
+\hline
+{\em green\-\_\-bits\mbox{[}in\mbox{]}} & \\
+\hline
+{\em blue\-\_\-bits\mbox{[}in\mbox{]}} & \\
+\hline
+{\em fullscreen\mbox{[}in\mbox{]}} & \\
+\hline
+{\em title\mbox{[}in\mbox{]}} & \\
+\hline
+{\em resizable\mbox{[}in\mbox{]}} & \\
+\hline
+{\em multisample\mbox{[}in\mbox{]}} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+1 on succes, 0 otherwise 
+\end{DoxyReturn}
+\hypertarget{group____window_ga8872ae4b9805c707852bd98537eb45fd}{\index{Window@{Window}!Window\-\_\-\-Create\-Ex@{Window\-\_\-\-Create\-Ex}}
+\index{Window\-\_\-\-Create\-Ex@{Window\-\_\-\-Create\-Ex}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Create\-Ex}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Create\-Ex (
+\begin{DoxyParamCaption}
+\item[{int}]{video\-\_\-mode\-\_\-id, }
+\item[{const char}]{title\mbox{[}$\,$\mbox{]}, }
+\item[{int}]{multisample}
+\end{DoxyParamCaption}
+)}}\label{group____window_ga8872ae4b9805c707852bd98537eb45fd}
+
+
+Open fullscreen render window according to a video mode. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em video\-\_\-mode\-\_\-id\mbox{[}in\mbox{]}} & Video mode I\-D \\
+\hline
+{\em title\mbox{[}in\mbox{]}} & Window title \\
+\hline
+{\em multisample\mbox{[}in\mbox{]}} & Multisample\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+1 on succes, 0 otherwise 
+\end{DoxyReturn}
+\hypertarget{group____window_ga7f76a09d3deff66720752bf2a0923d4f}{\index{Window@{Window}!Window\-\_\-\-Is\-Opened@{Window\-\_\-\-Is\-Opened}}
+\index{Window\-\_\-\-Is\-Opened@{Window\-\_\-\-Is\-Opened}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Is\-Opened}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Is\-Opened (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{group____window_ga7f76a09d3deff66720752bf2a0923d4f}
+
+
+Check if a rendering window is opened. 
+
+\begin{DoxyReturn}{Returns}
+1 if it's opened, 0 otherwise 
+\end{DoxyReturn}
+\hypertarget{group____window_ga7374ce0332c91678a678553a1cae0d0d}{\index{Window@{Window}!Window\-\_\-\-Center@{Window\-\_\-\-Center}}
+\index{Window\-\_\-\-Center@{Window\-\_\-\-Center}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Center}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Center (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{group____window_ga7374ce0332c91678a678553a1cae0d0d}
+
+
+Center the rendering window on the desktop. 
+
+No effect on fullscreen window \hypertarget{group____window_ga32ea67ebad901a6153c8ceb61af5ce3a}{\index{Window@{Window}!Window\-\_\-\-Set\-Pos@{Window\-\_\-\-Set\-Pos}}
+\index{Window\-\_\-\-Set\-Pos@{Window\-\_\-\-Set\-Pos}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Set\-Pos}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Set\-Pos (
+\begin{DoxyParamCaption}
+\item[{const int}]{x, }
+\item[{const int}]{y}
+\end{DoxyParamCaption}
+)}}\label{group____window_ga32ea67ebad901a6153c8ceb61af5ce3a}
+
+
+Set the position of the upper-\/left corner of the rendering window. 
+
+(0,0) is the upper-\/left corner of the desktop
+
+
+\begin{DoxyParams}{Parameters}
+{\em x\mbox{[}in\mbox{]}} & X-\/position \\
+\hline
+{\em y\mbox{[}in\mbox{]}} & Y-\/position \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____window_gac754a769c0175b881d6d681449b763f2}{\index{Window@{Window}!Window\-\_\-\-Set\-Size@{Window\-\_\-\-Set\-Size}}
+\index{Window\-\_\-\-Set\-Size@{Window\-\_\-\-Set\-Size}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Set\-Size}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Set\-Size (
+\begin{DoxyParamCaption}
+\item[{const int}]{w, }
+\item[{const int}]{h}
+\end{DoxyParamCaption}
+)}}\label{group____window_gac754a769c0175b881d6d681449b763f2}
+
+
+Set window size, or fullscreen display resolution. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em w\mbox{[}in\mbox{]}} & Width \\
+\hline
+{\em h\mbox{[}in\mbox{]}} & Height \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____window_ga142e4c04a7eae7868c5900b29f08f7e5}{\index{Window@{Window}!Window\-\_\-\-Get\-Size@{Window\-\_\-\-Get\-Size}}
+\index{Window\-\_\-\-Get\-Size@{Window\-\_\-\-Get\-Size}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Get\-Size}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Get\-Size (
+\begin{DoxyParamCaption}
+\item[{int $\ast$}]{w, }
+\item[{int $\ast$}]{h}
+\end{DoxyParamCaption}
+)}}\label{group____window_ga142e4c04a7eae7868c5900b29f08f7e5}
+
+
+Get window size, or fullscreen display resolution. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em w\mbox{[}out\mbox{]}} & Width \\
+\hline
+{\em h\mbox{[}out\mbox{]}} & Height \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____window_ga67e07e415c971fe4951e571e2b391cf8}{\index{Window@{Window}!Window\-\_\-\-Set\-Title@{Window\-\_\-\-Set\-Title}}
+\index{Window\-\_\-\-Set\-Title@{Window\-\_\-\-Set\-Title}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Set\-Title}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Set\-Title (
+\begin{DoxyParamCaption}
+\item[{const char}]{title\mbox{[}$\,$\mbox{]}}
+\end{DoxyParamCaption}
+)}}\label{group____window_ga67e07e415c971fe4951e571e2b391cf8}
+
+
+Set window title. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em title\mbox{[}in\mbox{]}} & N\-U\-L\-L-\/terminated string \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____window_gaae0db1f486524085101e661ee57f921b}{\index{Window@{Window}!Window\-\_\-\-Set\-Visible@{Window\-\_\-\-Set\-Visible}}
+\index{Window\-\_\-\-Set\-Visible@{Window\-\_\-\-Set\-Visible}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Set\-Visible}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Set\-Visible (
+\begin{DoxyParamCaption}
+\item[{const int}]{flag}
+\end{DoxyParamCaption}
+)}}\label{group____window_gaae0db1f486524085101e661ee57f921b}
+
+
+Iconify/\-Restor a window. 
+
+If fullscreen, then switch between desktop and window video mode
+
+
+\begin{DoxyParams}{Parameters}
+{\em flag\mbox{[}in\mbox{]}} & 1 to restor, 0 to iconify \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____window_ga6a604ab9207347c2a0b72490846d361a}{\index{Window@{Window}!Window\-\_\-\-Is\-Visible@{Window\-\_\-\-Is\-Visible}}
+\index{Window\-\_\-\-Is\-Visible@{Window\-\_\-\-Is\-Visible}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Is\-Visible}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Is\-Visible (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{group____window_ga6a604ab9207347c2a0b72490846d361a}
+
+
+Check if a window is iconified. 
+
+\begin{DoxyReturn}{Returns}
+1 if visible, 0 if iconified 
+\end{DoxyReturn}
+\hypertarget{group____window_gaaa82953eb660afd5c2f33656f68860c6}{\index{Window@{Window}!Window\-\_\-\-Is\-Active@{Window\-\_\-\-Is\-Active}}
+\index{Window\-\_\-\-Is\-Active@{Window\-\_\-\-Is\-Active}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Is\-Active}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Is\-Active (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{group____window_gaaa82953eb660afd5c2f33656f68860c6}
+
+
+Check if a window has the focus. 
+
+\begin{DoxyReturn}{Returns}
+1 if it has focus, 0 otherwise 
+\end{DoxyReturn}
+\hypertarget{group____window_gab2a76593e5240f77193cc0e18f9e829e}{\index{Window@{Window}!Window\-\_\-\-Is\-Accelerated@{Window\-\_\-\-Is\-Accelerated}}
+\index{Window\-\_\-\-Is\-Accelerated@{Window\-\_\-\-Is\-Accelerated}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Is\-Accelerated}]{\setlength{\rightskip}{0pt plus 5cm}int Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Is\-Accelerated (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{group____window_gab2a76593e5240f77193cc0e18f9e829e}
+
+
+Check if a window is hardware accelerated. 
+
+\begin{DoxyReturn}{Returns}
+1 if it is hardware accelerated, 0 otherwise 
+\end{DoxyReturn}
+\hypertarget{group____window_ga6f1988a980a344472bcc3a0b3b24ed84}{\index{Window@{Window}!Window\-\_\-\-Capture@{Window\-\_\-\-Capture}}
+\index{Window\-\_\-\-Capture@{Window\-\_\-\-Capture}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Capture}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Capture (
+\begin{DoxyParamCaption}
+\item[{const char}]{filepath\mbox{[}$\,$\mbox{]}, }
+\item[{{\bf e\-C\-A\-P\-T\-U\-R\-E\-\_\-\-T\-Y\-P\-E}}]{type, }
+\item[{int}]{x, }
+\item[{int}]{y, }
+\item[{int}]{w, }
+\item[{int}]{h}
+\end{DoxyParamCaption}
+)}}\label{group____window_ga6f1988a980a344472bcc3a0b3b24ed84}
+
+
+Take a screenshot of the rendering window (or a part of it) to a file. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em filepath\mbox{[}in\mbox{]}} & N\-U\-L\-L-\/terminated string representing a filepath \\
+\hline
+{\em type\mbox{[}in\mbox{]}} & Capture file format (see \hyperlink{group____enums_ga2f60dfad6de37348e99af1c69a907f7d}{e\-C\-A\-P\-T\-U\-R\-E\-\_\-\-T\-Y\-P\-E}) \\
+\hline
+{\em x\mbox{[}in\mbox{]}} & Upper-\/left corner x-\/position of the rectangle to capture \\
+\hline
+{\em y\mbox{[}in\mbox{]}} & Upper-\/left corner y-\/position of the rectangle to capture \\
+\hline
+{\em w\mbox{[}in\mbox{]}} & Upper-\/left corner width of the rectangle to capture \\
+\hline
+{\em h\mbox{[}in\mbox{]}} & Upper-\/left corner height of the rectangle to capture \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____window_ga97a1238bd052a7482322acfd3e37aab0}{\index{Window@{Window}!Window\-\_\-\-Set\-Cursor@{Window\-\_\-\-Set\-Cursor}}
+\index{Window\-\_\-\-Set\-Cursor@{Window\-\_\-\-Set\-Cursor}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Set\-Cursor}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Set\-Cursor (
+\begin{DoxyParamCaption}
+\item[{const int}]{status}
+\end{DoxyParamCaption}
+)}}\label{group____window_ga97a1238bd052a7482322acfd3e37aab0}
+
+
+Display/hide the mouse cursor. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em status\mbox{[}in\mbox{]}} & 1 to show, 0 to hide \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____window_gabe87127a4dd79764ef3308efe50eb6ea}{\index{Window@{Window}!Window\-\_\-\-Set\-Close\-Callback@{Window\-\_\-\-Set\-Close\-Callback}}
+\index{Window\-\_\-\-Set\-Close\-Callback@{Window\-\_\-\-Set\-Close\-Callback}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Set\-Close\-Callback}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Set\-Close\-Callback (
+\begin{DoxyParamCaption}
+\item[{{\bf Y\-A\-G\-L\-Win\-Close\-Proc}}]{proc}
+\end{DoxyParamCaption}
+)}}\label{group____window_gabe87127a4dd79764ef3308efe50eb6ea}
+
+
+Set a \hyperlink{group____callbacks_ga75b61763676e4aa7c18f0956518bf740}{Y\-A\-G\-L\-Win\-Close\-Proc()} 
+
+
+\begin{DoxyParams}{Parameters}
+{\em proc\mbox{[}in\mbox{]}} & Pointer to a Y\-A\-G\-L\-Win\-Close\-Proc or N\-U\-L\-L \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____window_ga8b8636b57540dca4ccf11602cb44c515}{\index{Window@{Window}!Window\-\_\-\-Set\-Size\-Callback@{Window\-\_\-\-Set\-Size\-Callback}}
+\index{Window\-\_\-\-Set\-Size\-Callback@{Window\-\_\-\-Set\-Size\-Callback}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Set\-Size\-Callback}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Set\-Size\-Callback (
+\begin{DoxyParamCaption}
+\item[{{\bf Y\-A\-G\-L\-Win\-Size\-Proc}}]{proc}
+\end{DoxyParamCaption}
+)}}\label{group____window_ga8b8636b57540dca4ccf11602cb44c515}
+
+
+Set a \hyperlink{group____callbacks_ga60792a830ce0db49f34dc6b05af814e8}{Y\-A\-G\-L\-Win\-Size\-Proc()} 
+
+
+\begin{DoxyParams}{Parameters}
+{\em proc\mbox{[}in\mbox{]}} & Pointer to a Y\-A\-G\-L\-Win\-Size\-Proc or N\-U\-L\-L \\
+\hline
+\end{DoxyParams}
+\hypertarget{group____window_ga82ef727470b71f298b88ffbcd68a3a59}{\index{Window@{Window}!Window\-\_\-\-Set\-Refresh\-Callback@{Window\-\_\-\-Set\-Refresh\-Callback}}
+\index{Window\-\_\-\-Set\-Refresh\-Callback@{Window\-\_\-\-Set\-Refresh\-Callback}!Window@{Window}}
+\subsubsection[{Window\-\_\-\-Set\-Refresh\-Callback}]{\setlength{\rightskip}{0pt plus 5cm}void Y\-A\-G\-L\-\_\-\-A\-P\-I Window\-\_\-\-Set\-Refresh\-Callback (
+\begin{DoxyParamCaption}
+\item[{{\bf Y\-A\-G\-L\-Win\-Refresh\-Proc}}]{proc}
+\end{DoxyParamCaption}
+)}}\label{group____window_ga82ef727470b71f298b88ffbcd68a3a59}
+
+
+Set a \hyperlink{group____callbacks_gab7e009655f4d5cc624a69e1025b2460d}{Y\-A\-G\-L\-Win\-Refresh\-Proc()} 
+
+
+\begin{DoxyParams}{Parameters}
+{\em proc\mbox{[}in\mbox{]}} & Pointer to a Y\-A\-G\-L\-Win\-Refresh\-Proc or N\-U\-L\-L \\
+\hline
+\end{DoxyParams}

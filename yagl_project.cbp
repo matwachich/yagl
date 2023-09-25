@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="YAGL" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/YAGL" imp_lib="$(TARGET_OUTPUT_DIR)$(TARGET_OUTPUT_BASENAME).a" def_file="$(TARGET_OUTPUT_DIR)$(TARGET_OUTPUT_BASENAME).def" prefix_auto="1" extension_auto="1" />
+				<Option object_output="bin/obj/" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Option createStaticLib="1" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c99" />
+					<Add option="-m32" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-m32" />
+				</Linker>
+				<ExtraCommands>
+					<Add after='cmd /c copy /Y &quot;$(PROJECT_DIR)\bin\YAGL.dll&quot; &quot;C:\Users\Homer\Programmation\AutoIt\Sources\YAGL\YAGL.dll&quot;' />
+					<Add after='cmd /c copy /Y &quot;$(PROJECT_DIR)\bin\YAGL.dll&quot; &quot;$(PROJECT_DIR)\FreeBasic\YAGL.dll&quot;' />
+					<Add after='cmd /c copy /Y &quot;$(PROJECT_DIR)\bin\libYAGL.a&quot; &quot;$(PROJECT_DIR)\FreeBasic\libYAGL.a&quot;' />
+					<Mode after="always" />
+				</ExtraCommands>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c99" />
+			<Add option="-m32" />
+			<Add option="-static" />
+			<Add option="-DBUILD_DLL" />
+			<Add directory="src/headers" />
+			<Add directory="lib" />
+		</Compiler>
+		<Linker>
+			<Add option="-m32" />
+			<Add option="-static" />
+			<Add library="soil" />
+			<Add library="glfw" />
+			<Add library="glu32" />
+			<Add library="opengl32" />
+			<Add directory="lib" />
+		</Linker>
+		<Unit filename="doxygen/doxyfile">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="doxygen/modules">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="include/yagl.h" />
+		<Unit filename="lib/SOIL.h" />
+		<Unit filename="lib/glfw.h" />
+		<Unit filename="lib/ini.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/ini.h" />
+		<Unit filename="lib/mem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/mem.h" />
+		<Unit filename="lib/set.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/set.h" />
+		<Unit filename="src/accessors_bmptext.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/accessors_pemitter.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/accessors_quad.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/accessors_sprite.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/animation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/collision.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/draw.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/events.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/font.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/geometry.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/headers/accessors_bmptext.h" />
+		<Unit filename="src/headers/accessors_pemitter.h" />
+		<Unit filename="src/headers/accessors_quad.h" />
+		<Unit filename="src/headers/accessors_sprite.h" />
+		<Unit filename="src/headers/all.h" />
+		<Unit filename="src/headers/animation.h" />
+		<Unit filename="src/headers/collision.h" />
+		<Unit filename="src/headers/draw.h" />
+		<Unit filename="src/headers/events.h" />
+		<Unit filename="src/headers/font.h" />
+		<Unit filename="src/headers/geometry.h" />
+		<Unit filename="src/headers/internal.h" />
+		<Unit filename="src/headers/misc.h" />
+		<Unit filename="src/headers/multiset.h" />
+		<Unit filename="src/headers/particle.h" />
+		<Unit filename="src/headers/quad.h" />
+		<Unit filename="src/headers/render.h" />
+		<Unit filename="src/headers/shader.h" />
+		<Unit filename="src/headers/sprite.h" />
+		<Unit filename="src/headers/sprite_set.h" />
+		<Unit filename="src/headers/strtable.h" />
+		<Unit filename="src/headers/system.h" />
+		<Unit filename="src/headers/text.h" />
+		<Unit filename="src/headers/texture.h" />
+		<Unit filename="src/headers/texture_map.h" />
+		<Unit filename="src/headers/view.h" />
+		<Unit filename="src/headers/window.h" />
+		<Unit filename="src/internal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/misc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/multiset.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/particle.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/quad.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/render.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/shader.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/shader_uniform.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/sprite.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/sprite_set.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/strtable.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/system.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/text.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/texture.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/texture_map.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/view.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/window.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project project_number="1.0.0" output_directory="doxygen" />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
